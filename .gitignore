@@ -1,0 +1,16 @@
+# Local caches & bytecode
+__pycache__/
+.cache/
+.numba_cache/
+.matplotlib_cache/
+*.pyc
+
+# Local scratch artefacts
+uploads/
+tmp.pkl
+
+# External datasets not meant for Git
+data/audio/
+data/audio2/
+data/audio9/
+data/outtakes/
