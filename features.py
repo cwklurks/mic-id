@@ -2,6 +2,7 @@ import numpy as np, librosa
 
 
 def load_mono(path, sr=16000):
+    path = str(path)
     x, sr = librosa.load(path, sr=sr, mono=True)
     x, _ = librosa.effects.trim(x, top_db=30)
     rms = np.sqrt(np.mean(x**2)) + 1e-8

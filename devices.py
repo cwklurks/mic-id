@@ -3,7 +3,9 @@ MIC_FRIENDLY_NAMES = {
     "audio2": "Samsung Galaxy S7 (TAU device B)",
     "audio9": "iPhone SE (TAU device C)",
     "iphone": "Local iPhone recordings",
-    "laptop": "MacBook built-in microphone",
+    # These clips were captured both with the MacBook mic and AirPods Pro;
+    # keep the class label stable but surface the combined description.
+    "laptop": "AirPods Pro / MacBook built-in microphone",
 }
 
 

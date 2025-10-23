@@ -1,0 +1,47 @@
+data:
+  root: data
+  metadata: data/metadata.csv
+  enforce_hashes: true
+  min_clips_per_device: 5
+  include_devices:
+    - audio
+    - audio2
+    - audio9
+    - iphone
+    - laptop
+    - "outtakes : new"
+  splits:
+    - train
+  device_defaults:
+    iphone:
+      source: "In-house recordings"
+      license: "Private use"
+    laptop:
+      source: "In-house recordings"
+      license: "Private use"
+    audio:
+      source: "TAU Urban Acoustic Scenes 2019 Mobile"
+      license: "CC-BY 4.0"
+    audio2:
+      source: "TAU Urban Acoustic Scenes 2019 Mobile"
+      license: "CC-BY 4.0"
+    audio9:
+      source: "TAU Urban Acoustic Scenes 2019 Mobile"
+      license: "CC-BY 4.0"
+    "outtakes : new":
+      source: "TAU Urban Acoustic Scenes 2019 Mobile"
+      license: "CC-BY 4.0"
+
+training:
+  test_size: 0.25
+  random_state: 42
+  classifier:
+    max_depth: 10
+    max_iter: 400
+    learning_rate: 0.08
+
+reporting:
+  metrics_path: reports/metrics.json
+  confusion_matrix_path: reports/confusion_matrix.png
+  runs_dir: reports/runs
+  tag: baseline

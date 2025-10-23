@@ -4,13 +4,26 @@ __pycache__/
 .numba_cache/
 .matplotlib_cache/
 *.pyc
+.venv/
+.DS_Store
+data/.DS_Store
 
 # Local scratch artefacts
 uploads/
 tmp.pkl
 
 # External datasets not meant for Git
-data/audio/
-data/audio2/
-data/audio9/
-data/outtakes/
+data/audio*/
+data/outtakes*/
+data/laptop/
+data/iphone/
+data/TAU-urban-acoustic-scenes*/
+data/Archive*/
+data/Archive.zip
+data/**/*.m4a
+
+# Experiment artefacts
+reports/runs/
+
+# External deploy clones
+hf-space-*/

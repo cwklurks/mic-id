@@ -1,0 +1,991 @@
+path,device,source,license,split,sha256
+audio/airport-helsinki-204-6138-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,db356757394c3ed66d87990ed98a080b1a1a1778aaaffe110b723c9fbd294814
+audio/airport-helsinki-204-6142-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c865877e82695faf7f9e2ac85b2a956ceb8b2a510dcec3b3e59e9d7ea4bd9c40
+audio/airport-helsinki-204-6143-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,08e9ca2fbb29946ccf3b2200574f953068696817d5f3f7ce10b3a2ce19e68d6c
+audio/airport-helsinki-204-6164-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e4e5f2b1b583c177996ecb7846c42594ddca236d8069d908944097bc342990b3
+audio/airport-helsinki-3-112-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8b999ac760b8c2b93f95684320b0a94cf71bc539a771f66081043757b8001940
+audio/airport-helsinki-3-113-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1244b3c8bcef3ee0a79022ca394bfee894ffb10ebddf5d70bc84c64e73974554
+audio/airport-helsinki-3-116-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6c590fc31be9cb7ae513dfa313332a149d10045ba85487d4f5b9b929151d3197
+audio/airport-helsinki-3-117-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3d2c98ab609ce6c770059ea176b4fbebc9ef8ca7d9922b826844cd28a961be8b
+audio/airport-helsinki-3-124-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,502f4142f1e1904b02be4c72fcce6c25cad9675dc5defdf56346b64a09690a7f
+audio/airport-helsinki-3-127-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,61b07d8198a600a231a318eb69cce25dd2cf007547d9155f3be9f0378dc014c7
+audio/airport-helsinki-3-135-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1acd10a338aa04b41bd89ec705bd9e22c6464b35a58534758eaceff8bed810ab
+audio/airport-helsinki-3-154-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f783dfa2585d0eb782f8b80bac2af144a733a0905c990ca62ba7686f07ec80c6
+audio/airport-helsinki-3-156-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8fe237f1b7dff90f3d107120eb6fe360575e2ed2f747f331bd983b0f10b04aff
+audio/airport-helsinki-3-160-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3edfdcf675f40688783127a0d5cedee438a1e07a9e166f5253c958cd390085c1
+audio/airport-helsinki-3-167-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,97ba4686b82aee6559947df4dd342c83d08c55dca14ac2f4043206daa039e5f7
+audio/airport-lisbon-175-4700-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ebcea04001ff88fd63af3e76d153ae2d72f3ea65889f3a215c894ca14ce173be
+audio/airport-lisbon-175-4703-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9e6231ce5fe47b2cec8191e9247989b0e5ee2639fe7a40fde670197a502c9ee4
+audio/airport-lisbon-175-4813-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0dd4e215c6310f17869bfcb9d00ebe2addd0e7f02d57a4a78bd2763c5d1d73ad
+audio/airport-lisbon-175-5070-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,271cff5bf9c55fdf31dc44abb3f1741e76cc1f6b67a94d69b92a63dd02a1438a
+audio/airport-lisbon-175-5340-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5718cd8fbd9e1d6ff7aa1c4a3bb1170375375dc3851283059257896fb6ca7d62
+audio/airport-lisbon-175-5350-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,db30000c8dfbb1ef30737c22d66c646ae2d2793edf851dbb599de92281516bb4
+audio/airport-lisbon-175-5351-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6433ae1da250b25aa4c219eaba8647677dfda1a43c27a7c02f6ad7f5707a2414
+audio/airport-lisbon-175-5357-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c427df237b39957f6c64ae7bf5fae1e35477336cad425655784de95a599f9f53
+audio/airport-lisbon-175-5450-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5be5bc060919c27af6edb710c7b33368801ac94c620655dee1b386d74840ca36
+audio/airport-london-205-6195-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,bc707fa2b01cefc8550062692eb33ec472e7f89e40ced1a611964f2e20f0fd21
+audio/airport-london-205-6199-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,aa3d73b305ff1d6be60686f9ca40b8f46404f9107beb57a4fff81fe94d45e2d9
+audio/airport-london-205-6215-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ffa58acaa6c24227a862d277695ca4620184647a381ee2012d41a5ea7ae096b3
+audio/airport-london-205-6229-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8530c0da216b44564685a545cd937f40407ab6fae9ca05028e907b7b150914e7
+audio/airport-london-5-230-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8d544e2f4cde7fba56b21924aa6758e78e56080a4e8874207d1556225d1530c1
+audio/airport-london-5-242-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,bfe7e83327013ccae8c87ce466895e3faff552750ca5def2548f5ac0490da441
+audio/airport-london-5-246-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c824d0e9bfaff5413fb8968b8e7025e191092ec8d99496ce320ca74d6596c9c5
+audio/airport-london-5-252-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2c404a5f381a4fefb4093f9766a4a7a07f86890fe2244b5e8220e3461855bab6
+audio/airport-london-6-258-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,daa7ddab270ba2889ec83024c82ad13c70b1414fbd56fa960201072b297b1756
+audio/airport-london-6-260-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f0e936c3a44c35e775b8132a7c01f29d3bd63b9ce0e2ef2fc8ed556538c1701d
+audio/airport-london-6-268-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,449aad8fa140b7b3b031043479d32a043683aec219a2a141c23f266a5910e401
+audio/airport-london-6-281-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,592164406f744012be1717bb3ce55707ea0ec2aab4632a438900d6f3f7b26df3
+audio/airport-london-6-297-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ca93c8c681cc0210e37b6fccc8c703739c95f565c205cea5b120761db014f7a7
+audio/airport-london-6-302-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e80025cec065a979561430b544700456acf994707341374bb0c908a46b437ca0
+audio/airport-london-6-304-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,89ab3653650918300803af06434ea1faa93c7640401a97eac7528913b1d56107
+audio/airport-lyon-169-4100-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7b15d8a7b7d334592bfd0ff72f941cfc4223b3d109229b5f2b274a2d1ea090bf
+audio/airport-lyon-169-4283-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f6766b14303fb64638fa51eb5bc1fb60ea2a921f95eeea7ff6099a55b97eeaa4
+audio/airport-lyon-169-4314-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ab5b7cbe569f4712ad589237a3f122fff06a09490a67a6ff01dbb60429f40163
+audio/airport-lyon-169-4486-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,325c3cc133e38ba022b1ee39554da2359ec3f5abd430fd2c163bfcaa826149cd
+audio/airport-lyon-169-4497-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,983fc134ea264cdf32215ccbd2fc8aa1bd781e6bc05a6c1469e564175d067e0a
+audio/airport-lyon-169-4981-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,cbd46ad5a9ee0119ac8460ddf50c141f0f152721a4e455e9a78446fdb4b10b24
+audio/airport-lyon-169-5068-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b3ea2597379faea02ea2f5e6ff1df1bf17fed4659a095fd6acb795fb412d6a9c
+audio/airport-lyon-169-5263-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ecb6b667df19e467abf276547bd3f29a97d8fea700a3ef723c6696462ae33d19
+audio/airport-lyon-169-5498-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0443cd5a4852c319ef0aaeb0a6221df736813a3fb0b89924a93e1e892da1bec3
+audio/airport-milan-172-4126-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,661b29560a085b2497b621c535ac3418322eb265b55b48fed20c6b050a8b673c
+audio/airport-milan-172-4524-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,be42b9cbfacc2e97935329e5cec7a38085e89e5c6c5dd51b31847b5eba7c5b3e
+audio/airport-milan-172-4567-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,78eaf7f05182cd1c65594af271eaff67e80ad3152fc06a253fdfda4428e6d6e8
+audio/airport-milan-172-4624-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,db7c0815741afc831f2920be571d07ad86c80d2ec924e358dc5395499c86677b
+audio/airport-milan-172-4762-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,cf6e75f4093d3fd7aef47b0fa04ccdcf50ffc9e4a09804afca11017f133e5d61
+audio/airport-milan-172-5214-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2683db3ed0fc7279c005af77442f7c3777858b8daacf1648b9a3d11098bed77e
+audio/airport-milan-172-5320-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7407a2408841c52cf556d0393a742fcd8eba824f47364fcd17c5d2314d7e94d3
+audio/airport-milan-172-5327-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,36fb60d6fb194173552ab5b2a4dfa0a2113ce9115bce5c71898a484b6b842d8e
+audio/airport-milan-172-5490-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,840eb0a66f523f570efbacaf0436b1eb4080a51274e64b879854856ae8d7edad
+audio/airport-paris-206-6246-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f89b33e58ca76cacbf79fc5b25bc92fce13e76352df02644ccd80154cfa456a5
+audio/airport-paris-206-6257-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,baf1cafe29cfa1a12dbc1d5cf55810a0b35b1345a7af667dcdbcc6e25ad56559
+audio/airport-paris-206-6263-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,538ea803fb7611089f33a4f8e7243a760572a8c0b639fb323ac2a5787927fdec
+audio/airport-paris-206-6276-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3767db16d522566ed4deff71d297e63a84ee9d7c7f50790a89a0ddf47da67dc4
+audio/airport-paris-7-310-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,278c34baf8b7f8f67181e2fc834277701bcbdd874fad7fcc15740b2bca63b6ac
+audio/airport-paris-7-326-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a6d6ddc6c7384da4a97876600e9063f72b47108c684ac6ad45c1fb323766c5b0
+audio/airport-paris-7-328-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,180720a7ea502cc95c7de8abfea3a833a5de08dd148a1a0c3a3366957726ad43
+audio/airport-paris-7-347-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7b05239bf51e832f3ce6c424c6e7e3f57f61dfae682f3d15be088683eb44c272
+audio/airport-paris-7-350-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,601078bd114ec9a29e6a4c077ed9c12217ad4704ff60f42c2fdce826167fbefa
+audio/airport-paris-8-365-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,161bb423d2cecd7c45e6d6325dbb7d7188b2c39e20e698d67de798a0fc0c0fc3
+audio/airport-paris-9-376-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,909069d075f571a93bc36317d550210268eb44750edb25ffefd58111b054d07e
+audio/airport-paris-9-379-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,587dbe4bc536dea098bcf5ecaea51762fad3f07a22052cb5b3ffb55ac1ba4a4b
+audio/airport-paris-9-396-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,51c074c6c05326d245ae70787d6a47894d946477b5a49d5175c57853b20008db
+audio/airport-paris-9-399-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,84095b97be500fae5e3db3f0832e1ea4f9bf5d677872a1ff41d2de0c33c49322
+audio/airport-paris-9-400-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9b22f21eda83c483a6ad518246d25ee019b90b0cb83e65cd40cb6bc19ab9ed1e
+audio/airport-prague-173-4104-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c0dfbb1756ff5277c7b13979521dba9f083e4324091c4aebf632130a8b85ad9c
+audio/airport-prague-173-4425-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,289484e2b611a39abe5f46120aa09be708d863e34317481752e816c95d4a294e
+audio/airport-prague-173-4592-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,77b8219319100104f3014f14ecc465a2a20a4adeff7def2c0e0c4c32721a3f94
+audio/airport-prague-173-4997-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8ac23c1d078f421ca3ff9a2a7ecac8d6b469a86872360994133d942aa3ffabc2
+audio/airport-prague-173-5742-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5f9fee64b269ef861d9d24e0eb86a657a687613b2ca424af4312e7b45075d43e
+audio/airport-prague-195-4169-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,634f6c9c9f9b9b7b7de8d18c23ead4128603dd1ab504b0bfaa295f986f6c0a6f
+audio/airport-prague-195-5597-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4585a3e875d6d49c7d500c100fe10020ebc552fe941a5b03f00874c7bc044f29
+audio/airport-prague-195-5657-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,eed8eaaf93c38d175b98e2e92c1e7be27d94ca57771999890f63f946667a66d6
+audio/airport-prague-195-5704-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,55b25da2adc290a9fb5fc22712ee35faaa98110d0e2e4191b54667ffc4f53c94
+audio/airport-stockholm-10-423-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c17999f0104ca7d82f95646fcc8a749d159eee6c35f30483ee2886185abb8d0d
+audio/airport-stockholm-10-428-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,809a5391791bb90b1a1d759e310c6725e921c362d0ade5a727584238391633c4
+audio/airport-stockholm-10-432-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8ded3fc4e1281305b6c351a6514440ba4811554e2699301e4565f0f2d68ae289
+audio/airport-stockholm-10-435-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,cbe965f51cd572ff4f34c7fb818b9e334eb0b2b773a7714e32c63b4c2e947b56
+audio/airport-stockholm-11-454-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,68b858221b071bb0bcfc1445482b2e232f4b46627743f7c427e082d50422a428
+audio/airport-stockholm-11-459-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b6138202b729f2f585840049d14dff92db7f19d530db3fc440278fb17a0e7492
+audio/airport-stockholm-12-484-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5fff31182d465d2e1553839f36b7d902a051f46851981068361adb502f8fa27b
+audio/airport-stockholm-12-493-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c9f51b6013b614fa8d91c4740d8f65eca6a79ef4e628cb65d6b1553d8d5a2ac9
+audio/airport-stockholm-12-498-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,dddae409d8b211e748b0d1cf8a73e2224d508ad3600e8cad24cda389fce3b071
+audio/airport-stockholm-12-499-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e09d291e022414040065ba28cf43017909b27d6d9c01284d72234795ffff55b1
+audio/airport-stockholm-12-508-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2775529f6c2a10aa50f7cfed2ca1a4170b5c9b37fcc953f933452afd26511d40
+audio/airport-stockholm-208-6321-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5512839bee5270e28975f86949900e99f01cd525c4e257573ec327998685995e
+audio/airport-stockholm-208-6338-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,49000ba3528c77ba3d23f2d955ba89b84d4cd852cd1a66e2ae02d4b23c34bc58
+audio/airport-stockholm-208-6341-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,659881b306ff7c2891b19c1aa727eafaa83f89f7cafceab0702d1161cdfd0a10
+audio/bus-stockholm-35-1041-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b76dfe5d2d25b4b7912af63110d11f32623cb8308872cd601cc1fbe6daac8ef8
+audio/bus-stockholm-35-1043-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3a749f8c4156cfc876b12c9ea309a37a63116333cefc6b27032c4711cf912909
+audio/bus-stockholm-35-1063-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,53b85fabfc510d336f55f978318add3220f26e94434c04a9e86ed6b371d0f0c1
+audio/bus-stockholm-36-1066-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b9a7beaab32fc7db3bf8fe91d3023a117da2d9f1438ea146687e741e5d6fbe69
+audio/bus-stockholm-36-1067-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5f20ea466ec65b4ba4669579b49dc19ff7634808a1495028f2884eba4885dc49
+audio/bus-stockholm-36-1072-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,db84b1ba75932084d7b24c031b368f6d4b9fe6cbc96b3f58ec131fb4c4edc155
+audio/bus-stockholm-36-1073-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1bb2af7297a658c52177d67ffdc14d32be0104729478f2ed9bf01798fe276edc
+audio/bus-stockholm-36-1083-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1ded1522a4f20a488883aaa2d24f95a0b47bee11837459915d7849c1ce7606e1
+audio/bus-stockholm-36-1088-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,39cfffe07221dc137baed97626787d104af750089914d1b21c3606f2e8ae32a4
+audio/bus-vienna-219-6610-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,25fd1aaefd524376986c76fd7f78725279bdce3c6c36ed76026ee0ff2f717115
+audio/bus-vienna-219-6617-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ebee6cf23873590355680ba9ef421eb9433efc84c6652b53f91b24e4b14f244b
+audio/bus-vienna-219-6620-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f5cd9f64babf418e2e0cb4f87885759307986dfcb4e01931b34f7de1ca820921
+audio/bus-vienna-38-1118-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f263e5a255f90821b0bd87d5c4027fcbb00822ffd25270172f63a8908c1f2ef0
+audio/bus-vienna-39-1149-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1eb4c8260c94916ce714cccd611ee657ce6f3d2a25efe7b1e8d7c8629d86bc13
+audio/bus-vienna-39-1150-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c6fc56a750f310e676fc895a8b2cc9da0b9f6e3bfffad77c0fc68cd11307cc1b
+audio/bus-vienna-39-1155-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,598abc258fb87ed94a6f2b4a027cd1bd910462badce15d7698cf013b13eb0a69
+audio/bus-vienna-39-1170-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c8a78e92745dc9673c7512692dcb8f861f49d950022936ac70ff92e3fb4210c1
+audio/bus-vienna-40-1185-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c11dd8f293edecacb58bedcd4b8f31d2c348026c29952cbdaea78628c92db24b
+audio/bus-vienna-40-1186-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ae3b8e3ba38b1c64b49b0deb52afe14543c5051706b2509aaa444a97e8dd8bfa
+audio/bus-vienna-40-1208-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9d7ba7129b34d66e3e2096a1c495756abae2d6e1028b5b4a09dd4366aa1c205f
+audio/bus-vienna-40-1214-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,094bfe1b171e12fde8eb9125562f011bb6353935ffe6ebe80ec823544582fe4b
+audio/metro-barcelona-220-6659-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,65981c72dbc1c98b8d5fc0de3ac8dbb977c06198c46078c0b0f2b121f8919ad1
+audio/metro-barcelona-220-6662-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ada318d432141838efc59169c94de799d54fb4048a17845778a61b3fd2c4e71e
+audio/metro-barcelona-220-6668-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a86faaf6b7534ce8bf9981b631f99e5cf32750524cd7b39fe780c78b29e2fee0
+audio/metro-barcelona-41-1227-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d11f5c1c2197a6fd0c6c9f91b044c363f8b94b1456ff0255371dec9c20cb37f5
+audio/metro-barcelona-41-1229-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9ae02f3af9229caa63851cd79988f3ebebf0c3d2ca008cbfc9968564adf7bb1d
+audio/metro-barcelona-41-1235-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2b908e484202f2faf89cbd5dbbd67e5c341779fa2222fa76b4566cd21c44f733
+audio/metro-barcelona-41-1240-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,51bd468d99d5f51aef6a27dbe150721f7439e0c2a08281406d395a7115f95ed1
+audio/metro-barcelona-41-1247-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1a52665d0822b0b6c512e7efaa9c540f74fecf769e06543058927e110a8497fe
+audio/metro-barcelona-41-1252-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9be802059fe7b63b006d87f713ccc0acd982438da7f981ec53ebdabccc7b7f15
+audio/metro-barcelona-41-1263-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c5d4a47308cf7036ce3906733a29a701628483646f405ce892752fb78e43a3de
+audio/metro-barcelona-41-1264-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4cb775c9c3110b89400131b926f229437795a8eef91c1c88f86be990597ba60e
+audio/metro-barcelona-41-1266-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ff22a6998b7c7682525e42da25e72ca8b3f5eb10338748a2f155682197ba1dca
+audio/metro-helsinki-222-6744-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,89280de129af6aa57809936d2b2888457466c53a518c094b5a882faca3567b05
+audio/metro-helsinki-222-6748-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7ec95304d7105ede8190421105bf91b133578de0f272e661296522ed369e54d7
+audio/metro-helsinki-222-6766-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,271021e44f410b5953c071cf78317c892ec54ecd932a99f420c299fb4c9c4dbf
+audio/metro-helsinki-45-1332-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a7dc8b0f249c7864c273f5b34e3f37addd2b36c5226cfcdf0fa2863797b8a9ad
+audio/metro-helsinki-45-1336-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c4c46fb6d3241abd5c074138588e25792bad2fa2b41ea42e7da168ed59fd18f2
+audio/metro-helsinki-45-1337-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6e0cb5d9302c64dccde49e347d2e425c7872474267385f02bd264d39a7ac817d
+audio/metro-helsinki-45-1339-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,34141616e3ada8069ff697ded9d2729b5436199355ea5e01580213f62d7e068b
+audio/metro-helsinki-45-1344-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1d8d671c1e522a9817ddd59cede445976f92f13ef1102dc665fb90887f31f587
+audio/metro-helsinki-45-1354-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c5207858d9613e1b9908ee01f5e5e4128caebbc96ba75d60238646efd5c3b781
+audio/metro-helsinki-45-1355-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,de79721bf49140168c4b5873135500fce0a4f030b0984f395750ac120f5ed5fc
+audio/metro-helsinki-45-1358-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7b65abb04d5df1e8f0a79b19165084c379860dd6100e12ad920f9fc4c223a122
+audio/metro-helsinki-45-1363-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1b19cbddece3d5a5d68cceabbddd5591b6923f67481696ee139c11be7ac5a22d
+audio/metro-lisbon-199-4150-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0ea7d534e83f50e7d37432effb0038012a4e2ac780a11bb0378134fa7c428359
+audio/metro-lisbon-199-5154-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f337fd9776395485cd03bc3d91e3ca211d10e7d434385be7b488a50e2bab405e
+audio/metro-lisbon-199-5240-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,68653c665aee0a02aefbb504ba78965a7edd908a24660a5c103b51a979c8ea0c
+audio/metro-lisbon-199-5634-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6e649a006e6854cc0d7885ecd53c670ae042ab25d7062ac625a0d6117349f45a
+audio/metro-lisbon-217-4266-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,687a270d570b9b72e6efb542ff8b88f207ae17526cdc94b941c5880f58350377
+audio/metro-lisbon-217-4679-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,15b7bab26d75d2dae595d837bca5a9833b33987b71587e0a9f15d8e91a08db73
+audio/metro-lisbon-217-5062-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ec48d85087bc4238384a5122c7750d74672fc3db9b64af9823f362911cb1371e
+audio/metro-lisbon-224-4455-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,88670b8982c49defd7f606a1a475a5cd3f53c9c3ff25433926cc507ca6bfe655
+audio/metro-lisbon-224-5162-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,427ebd7fe6923cf0ae49e3c4a4950c8373859c051ace04eecebc7e7f99a080ab
+audio/metro-london-223-6771-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,64274c4fc4f61903cf9493a46a152ddf2ef6448bdc67956d3973174202a0d448
+audio/metro-london-223-6774-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1472312db2a2ae1520dd655959ab05d2706469e0a8b4dfe9a1b3cacb84b3e404
+audio/metro-london-223-6775-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,16fb8c3e21d2c2421eb4bfa4339efebf172f8fe77a6b7e2d001fb14fd6671305
+audio/metro-london-46-1377-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,651eecefacb2fd753f4399aebaa98e40c76425ea001c394138fd3f3f316581a1
+audio/metro-london-46-1397-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,eb0c4952e691bf11c068827cbb85249bf8b5367d563b53402f262281ee53c5c1
+audio/metro-london-46-1401-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a227dad819487a054332db501358a2fe8f1c2a4ab0f6002d4923151b98aa5d81
+audio/metro-london-46-1402-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f5f041ca4b04af975bc6633029b88494d6240f63937cdea7c372a1f0f82e774c
+audio/metro-london-46-1403-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,de3463fe25e8de0b99073628ce21419591301614e048e94e307d54bf66bf9944
+audio/metro-london-47-1428-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7eec0a18704b7151ad30dc72d1907a67b4073c4cafd6d5a2ad5c925ef89ad2bf
+audio/metro-london-47-1435-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f8408a8328237dc4d930b8da79578f3ba57771a7a577e22bbcdbab1175a833a6
+audio/metro-london-48-1450-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7a932ac3200bf609882fdac0d45ae51054e543b3b2c9b32914a1215d1de8ab20
+audio/metro-london-48-1468-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,dce1507061cdec265b4875cad0e76267d5671667cf6d7de239b1c5d259ebc0ad
+audio/metro-lyon-181-4146-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ffe55e117425b677c999190577fb72032605ecb2aae46da7ca61733dc51cd362
+audio/metro-lyon-181-4168-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4d1efeb1bcab33daa98ffee9d99b1bfd1675d787b4a6064d87ffb5af69ef9c81
+audio/metro-lyon-181-4952-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c0ce01d00218eff626ef07be7fd4985b853ab4ce59d93bb9d9ee8c013e8b8fb1
+audio/metro-lyon-201-4196-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5f2a0c4aa4b64d5a442a03679a89678fb6b55b2b6d8700f80b2e754b2897b8f0
+audio/metro-lyon-201-5023-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,03122429864c4e1a640057e7ccbe521f607ad343e5c1df952517760eec74ab87
+audio/metro-lyon-201-5360-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,29178e85a929702093f6083cd127493065f32d47c29ecc22ac90f4f05f9f0b72
+audio/metro-lyon-206-4172-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b7c744ccaaadb0a3077f31c8d964103262f7cf054d9b8c19e6da3ac26c79de56
+audio/metro-lyon-206-4814-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,07c8be3cf1c56ea9f19c3ebfcbb25ac67f0084f07415d9933e437634494344df
+audio/metro-lyon-206-5148-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,13120f3dd649fa7bcbef0ccecad3a205bf5943cabd8f24a7d02e1306fec41ea2
+audio/metro-milan-197-4231-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,137170eab55f79fde35ef45011e2e8ad086c3f952a44449460f10d8b818823ec
+audio/metro-milan-197-4875-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,954c937f9759bc5236016e1d0885e5161abd9abf5c69ff98669d7defb6b67945
+audio/metro-milan-197-5069-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,39d681462176c70b64e6a37ba1c2cd913c75e6851bfd116d18c79d0191579a50
+audio/metro-milan-197-5231-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1f768818869f8e1b6c642054683f9409f9ac1d7933dfd1eb4b3a9ea59910fcbb
+audio/metro-milan-197-5646-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9c28a1ee9b0c89eab4fb45695f901c25040464bef474b70a04dc04ebb9576307
+audio/metro-milan-218-4535-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1a2712fdcebf07eed127f7176312b1aa753877116ef2e4e9237f5afc16470fa0
+audio/metro-milan-218-4758-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d06e3cc7dae59b3f460d06d3a677ebcc7e4a296a829a1bff1e1ebec0fb70c3eb
+audio/metro-milan-218-4775-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0ad311395f604da0cf4ecee6399d521ae1adf8b66c2c7ffac3ead116ea3fa0b7
+audio/metro-milan-218-5027-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,eb05b029c8e5e938e66661a169689e88c078fc3889a8d98286ed380e20f8e1ed
+audio/metro-paris-224-6784-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0ab77d0c4a7f6a72f50e76171cdbeeb1e8d90c3f2e5788988c4cc1902316bdfc
+audio/metro-paris-224-6785-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d6d467d48f75378ce9a93d4feb905e12fc5cc040a14ec287741f188c32f4df66
+audio/metro-paris-224-6792-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,04caafa986fb5c94455f411146bc47683dff1add1871e35bad769d2a645bd790
+audio/metro-paris-50-1524-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e8a15fd1c204f18ff21d997d5e481ef7a79ea99ba9e12d119dce5999a5b8ad28
+audio/metro-paris-52-1548-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,72b4a49cbf1d79507c7fc65e754543200d62c2c6be35181e939f6eca6a5d5672
+audio/metro-paris-52-1549-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9d94ba6ebc79b78d55bc96b79fdc3dafa53969dfcaa46ff73d8666286203e7f1
+audio/metro-paris-52-1553-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,bf07f4ed0a0d2ce8504c4dc7fcb23d002b8a6b4ac956c5896ebf3c0b57d114ff
+audio/metro-paris-54-1568-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b465ae18959f0d33b689034a8160c0f7b48a679d63685597388dbb696b005786
+audio/metro-paris-54-1576-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a4b89797d12a01b8b6dad0cb2412e8d140482951d663830e82ac748c75ff4759
+audio/metro-paris-54-1587-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,731fff175b066b1220d873a8612c1ac8cdc2103880035a93ba7fd7d44e6d2c1d
+audio/metro-paris-54-1595-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,034a692ebd77d31cd11d74645d8362e48d9bea6a027600be51c6317eb6f37e93
+audio/metro-paris-54-1598-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,72d28ad8b8d9af1bba84b1d62a69dece0d78f290f5c418a17cf1ad1c157f83dc
+audio/metro-prague-163-4094-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,cef07aaca9c934792c980b89c64fde2238e6d308b37645539ebf8342eabf7178
+audio/metro-prague-163-4292-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0c545793a9abb50ff82caf3a6e32dcc98645445584d6662e176874a7a05e1221
+audio/metro-prague-204-4777-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3954c101be8df46161d14eb4846778ef485ec6e0edea59846d0723d498d6b8b7
+audio/street_pedestrian-london-149-4500-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,798a16ec6b8b327f75b078b29fff10158e97c8f993f69d095b044d33d1f8a87e
+audio/street_pedestrian-london-149-4521-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3bbcb6e7ea1f7ccc2d44d6810576f64052f595bc8ca507515beee34f6020cc63
+audio/street_pedestrian-london-149-4528-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5b2f7c1c3fedeac08c78b45e379940f3c044049fa81e4b1b7b257cd7ff9ce3cc
+audio/street_pedestrian-london-150-4542-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d93dbf73a8acc52e80193131eb0cb0831b5d7e216307ba819b516df153b6bec7
+audio/street_pedestrian-london-151-4579-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e2aa748145138dbd9c36fdb277ee4a655d3d6328320773fcef0ab1ba12983e6b
+audio/street_pedestrian-london-151-4594-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,eb9992b3e9179ba153125af3024b8bf817eb6a7307e83851cacc0d9d5b316d4f
+audio/street_pedestrian-london-151-4602-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,48e4a4ccc73834d63cf67d485018b3626335cb4c4c3d8d0d1884cb90c8d6db0c
+audio/street_pedestrian-london-151-4603-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5f1da6fd9ee42025131aa0c4188272df419cfd735349af27b9d0d19926fcfdab
+audio/street_pedestrian-london-151-4604-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c8c7b973bc0d7590bc871d50daf59edb06179b888c26c74973834999ef2c3f18
+audio/street_pedestrian-london-263-7964-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,fcaad05ecdb3360976bbf8764059c2af251d172baea56f0e1279ad138e23470e
+audio/street_pedestrian-london-263-7975-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5b7e5c8aedec24ae169a21f3f43fd8dedb5ff7b5787abe22d58e36b478914f4f
+audio/street_pedestrian-london-263-7987-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0bdbde90dd6d63ac7c8a6bbc7a48ebbd3cd26fb62ceee642d6cb70b9081b6655
+audio/street_pedestrian-lyon-162-4093-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,12f821197c011e384f5d40610169502c4f4465021448c9ad5acb553dbf0ad508
+audio/street_pedestrian-lyon-162-4378-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7fbd99aa70ea0ceb6161af19e12acf06aeca1fe60c1c238b18476fbb9bd1f761
+audio/street_pedestrian-lyon-162-4707-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0a1e31ef423f32c34a1beba8bce3834f5dff8529b969e92793fce6e9f6e3275b
+audio/street_pedestrian-lyon-162-4717-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d83ecfe935112066a4fa8b3a3831599d282c7a42e0cd591cab444cfa682791ef
+audio/street_pedestrian-lyon-162-4937-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,17ca4901c626e0e837c3f4295cd982fa26cb81582b6b553070c18fb098e4273d
+audio/street_pedestrian-lyon-162-5000-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,dd77c1beda856e55a40d9888129a8d6ea50f6952b25484bf2c6bd14fbafc6f71
+audio/street_pedestrian-lyon-162-5083-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5a2a5e25d9879a1509eb8bbbdfee7e9a6328c2b1617b4d6111a8492b6864620f
+audio/street_pedestrian-lyon-162-5402-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,aa0f5fab7eaf978c249f48afe456f083337e81bbc27d6665fbe96bccbf9b4ada
+audio/street_pedestrian-lyon-162-5671-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,80b9a803bb2266870f75742888312e4b22298c86b1c617ae72db97a14d712e2f
+audio/street_pedestrian-milan-165-4096-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,fb36bc9ea0c1c572d2823248740c1c4763d8526e874b8e24cdce332e113f8611
+audio/street_pedestrian-milan-165-4805-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5463e36ac081e144625100a6db55d0bf1376727568ab24db533b08c752cdba5c
+audio/street_pedestrian-milan-165-4841-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ec3897a882e41f414c0fc88b8bc56cd2f07d5e7d545809e2dc23e13ebddff37f
+audio/street_pedestrian-milan-205-4244-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f1c4ef2e3909f6ba9518c1cf9dbd951920c683b5280d3b70c8d723a6f8308d3b
+audio/street_pedestrian-milan-205-4546-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e320b95f181dd25696d65ed376e5a07f40c7fb47e39df6ff9d8255f7bb9635c5
+audio/street_pedestrian-milan-205-4726-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,05dfced5d4bc2baf2d3203def59b04f260be8d46d11dd5d3853137b48770ea9c
+audio/street_pedestrian-milan-205-5325-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3a362acd31e3f9674023df738ebdcf3ea082fc469c5c30f92d0b45318155ce66
+audio/street_pedestrian-milan-205-5556-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,98bf78068265d3aa4206506df2f4f8ee13285bf028ced6ac9d165de047f184b5
+audio/street_pedestrian-milan-205-5565-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b09c220afff92193e1bf86c299cd48232fdd24ee7e0e2f26f07afe27d0831636
+audio/street_pedestrian-paris-152-4606-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3e3a74923174341a5ffc08b8f3c32dafb1854e02844cb895af002889bb5a77d0
+audio/street_pedestrian-paris-152-4608-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7c76c51bfd5bcff943d4975e1d0359f1023751cd921b90f19b80a02aff540732
+audio/street_pedestrian-paris-152-4616-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d90598bb13639fa9619a885dd424957806af3eec5471ca3bb42684b1cfbe87bc
+audio/street_pedestrian-paris-153-4627-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8b302975376a92d34a345c12fbcf0c5a4a41b68b229cf6e2d57f9c52a5bb02ba
+audio/street_pedestrian-paris-153-4639-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2d60efb21143bf2f26e13963eb43b6a2430eba68106f9957218d5422b30fed71
+audio/street_pedestrian-paris-153-4643-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,37f59e7a80928b684ea38d013a3056c794573ff93aad4ee0637a46309e27be30
+audio/street_pedestrian-paris-154-4659-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,478e54da1ae9b721cffadb5e24be6cc72d49127175623ff08fcc3a9e02b9af39
+audio/street_pedestrian-paris-154-4664-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f56be2e25057058f5a1fb68d425e2e96acee8116fe6ae65cea404634a008dc8f
+audio/street_pedestrian-paris-154-4672-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a693c479489b426a74ce341b07dc28d851921aa41ba2a6b2ac0fd1aadae9f42f
+audio/street_pedestrian-paris-264-8001-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f3c5146ac65b772de47454c4aa713ad26e876b3f65bed4f18e3cd60ca618fbf0
+audio/street_pedestrian-paris-265-8043-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,efaa347510d6312e9b18a04f30b4b8113304a6138934704a12fb4cb39d41d1b4
+audio/street_pedestrian-paris-265-8056-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,fe02f9c77cd8824801c98e7d0e7685d750e4ddaf909fb6b942ae59c2256a86ef
+audio/street_pedestrian-prague-203-4164-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a49a3a34be66ae421af5f54ec8b2f40137a7d64ca678d3caa08c4783ee31605f
+audio/street_pedestrian-prague-203-5186-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5aeb90294cfa49af3fe18b37b0a7d14a22a2a62692db70753ed2d29281673a5b
+audio/street_pedestrian-prague-203-5268-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b4d3937c72adf80e66fa1e10ba67a3e684bfb726818e6986e126528086d98d10
+audio/street_pedestrian-prague-203-5682-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,736faeeaf9ad96900c19a1aa295647d3061029383006895c485f54c98a2fe643
+audio/street_pedestrian-prague-203-5723-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,768ed6ce8622ca7d736fdba32e03dbf27187f011d155df736b9f5637b79f691b
+audio/street_pedestrian-prague-203-5726-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e899241c2836a35f8c557248f357c15db692b492dd312fc1f8ed9f72550bd1f5
+audio/street_pedestrian-prague-227-4653-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,46fa46e4298430c0d5928dbc2a8f31e6aa941aaba602ecc056c077dd2990b264
+audio/street_pedestrian-prague-227-5094-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,674337c9ec1134e42c7500902a8b1c8417606c6350b5320c6a165c4606c7c52d
+audio/street_pedestrian-prague-227-5101-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6015d399ad5675fdfb2d0cb1970c15ba0c5900a05d83bba5cbae93f42cb5a015
+audio/street_pedestrian-stockholm-155-4679-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,567bf38a91dcb49a14f6a604cfdd1475806d69dc4d9014b2accce985043aae2c
+audio/street_pedestrian-stockholm-155-4684-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,098887994c528c393289da2b8b238ecea88b1c9ead35cde864be2f89af2f187e
+audio/street_pedestrian-stockholm-155-4699-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,23e59bfd8f876f98a6e37b132bd40d20e98837ea684d9a37527571973d5d78bf
+audio/street_pedestrian-stockholm-155-4703-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1112019d134890d5b359a7bb9f538593a4427bef40d8b8c1e4aba4dd14541e5a
+audio/street_pedestrian-stockholm-156-4716-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,38f8939899fd196cf223a8a2dd528089c19d2ff251b9e653050b20bd8adef144
+audio/street_pedestrian-stockholm-156-4717-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,207afb6c692a3056cde9a1e7dfa4a735482502a1b2b1dc65edcfbc0c387cff1f
+audio/street_pedestrian-stockholm-156-4744-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,215eedcad3c6c2ee4a1abf67fbc4834b6e26b3048bc781237709e22efcd2fcaf
+audio/street_pedestrian-stockholm-156-4751-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c135c5e39cfa87e128656ae564b3579dfe539b9e12cf72d756b2ca917318a340
+audio/street_pedestrian-stockholm-157-4755-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,aad1c041d3fe6ea502536acb79af22efe525078eb1d2261a30ada2bbce84a01a
+audio/street_pedestrian-stockholm-266-8087-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,133437f253f3e3eb466cd6d2576fad25ffc43ddf47f5477fd78d58c47c58953e
+audio/street_pedestrian-stockholm-266-8093-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,09595049df56316194bdd14c654889124420495f08c1f3808b93d743d9904ac4
+audio/street_pedestrian-stockholm-266-8095-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,61a499351b7117f6d62500a9f4f3f3391fd37e0833a06f14b62921e705e600fa
+audio/street_pedestrian-vienna-158-4795-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1d66dacd32cc9965d1dce6b310af5c1d802c99df6583afa442fca1bacfdaf2af
+audio/street_pedestrian-vienna-158-4797-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b486c9d9b4ba1439745dbb7c1999b243d739e9c564535225b843d8ec24bc2bf7
+audio/street_pedestrian-vienna-158-4812-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,492e3932b1b3d2f03d3b5196404bde7eb0d3ff5dc944c1d6fd62447450c93cfe
+audio/street_pedestrian-vienna-159-4839-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,cf55b039e70176bf0c55654c4946cbcf37fa35b462c458690767787aa85afb44
+audio/street_pedestrian-vienna-159-4863-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,de0bc2f992145b05d4c0122ef4127fb9a17a1b3ec1c88930cc98ffab32d40652
+audio/street_pedestrian-vienna-160-4864-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0bab82356da6b71e874efdb0461a830f848091f04c1c4e0a0bc5b7b7eaf67298
+audio/street_pedestrian-vienna-160-4869-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,22a32e29e5b586617461f2e9f44f7a707e7ca382f26c7ba92e0a641fad0484f7
+audio/street_pedestrian-vienna-160-4876-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,dc6c464529c50024b1ee4363f5b2b914bfc8ede43a778bd308b42cbc3ac29cde
+audio/street_pedestrian-vienna-160-4893-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8c64e18cf8f81cc9a7188f15dea94ceb2910a6932a9774f5b000f8163c3da97a
+audio/street_pedestrian-vienna-267-8113-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,253540d9a41b605a16f32a635658190a8b8727f54f0c5de95a3df8cd5f4a070e
+audio/street_pedestrian-vienna-267-8123-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2aa978e81098ec660c9b424879f3e0878d0d82edb29df0da7d96942ae065179b
+audio/street_pedestrian-vienna-267-8131-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,650084f277de09bdb2b257f626976539ff825bb73a9003266a2da818d7a10dee
+audio/street_traffic-barcelona-161-4903-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,39866fb60c8db1ecfa1ae1c3444340da412773aacea83083db2b8a498c7dce34
+audio/street_traffic-barcelona-161-4908-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0e52a172c51dd380be1ce2d699ec27d8605053556bd9c282eabf25243e644524
+audio/street_traffic-barcelona-161-4910-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1b3dd55bfa839ef8725ffb9a80152f1ce687b1871d863255ecdd0886d789e484
+audio/street_traffic-barcelona-161-4916-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,fe0fd8c7b8cf6ebde3bfd15b2c97c21e57f142ab8a969af20e27c5f5287da8d7
+audio/street_traffic-barcelona-161-4917-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,814566cc0cae874ac40e31c25e278e9bdd61569bcb06f5ea07c9e821bb5f33eb
+audio/street_traffic-barcelona-162-4946-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f1ce657696cd0d7e2492bca7fd80521c2e8aa26eeee455f0392b8e7ca66bbd93
+audio/street_traffic-barcelona-162-4958-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f3fbf3d4a81c15f6490370bd3923a279f7e91e3b68b8826505f661a0e7e1c575
+audio/street_traffic-barcelona-162-4962-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7bb54ff809d0d1ab6e00a65d09e3c4242cb5f2cfd67c5d2ffb73ab789c688069
+audio/street_traffic-barcelona-163-4974-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0d66a224c790f5f1b6288a9d44b9faab1aba31beade6e8b57369cf466da58720
+audio/street_traffic-barcelona-268-8139-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,74c3e4511b416849cb6724384afde5bc9aff6d7d70c753c22b7c643c091a4f5b
+audio/street_traffic-barcelona-268-8156-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,54567d139cb2570249ea1c76c84d67a307c74ceb511faf31168b302a95b8db37
+audio/street_traffic-barcelona-268-8159-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c7c6befe16676efc40abb4841234da00f83314377235a2d6cef7ec44a0fbd347
+audio/street_traffic-helsinki-164-5017-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c4ce0e279a301d565d99907c3779b0cf8ab49953ecd855f3f0d20ddc8166920f
+audio/street_traffic-helsinki-164-5031-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,135c775823ee8d0b2fb8e2e85390a7c5c6033bcf217d23a6d6d167e5b22c131f
+audio/street_traffic-helsinki-164-5037-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0d06dca4e21ba5029a0d222d2f10af5eecb75ce0146e8eb5c69afcb1baac7169
+audio/street_traffic-helsinki-165-5059-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,950c5b8095f6a302ef530ac9f123020559d8a5c3728dc74e3162307d874bc2d8
+audio/street_traffic-helsinki-165-5064-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,56c37b9025f9480c541a7a7b254e48cf9daff58192819f76bd86cd851da26360
+audio/street_traffic-helsinki-165-5065-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6e4e4c4cd633db64ed0d7b01bde3f38739127e68d36de646c98af6db6b2c0da3
+audio/street_traffic-helsinki-165-5077-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,702d4943b5fa2ee51746331273d47c038c93aa89cdccc2032a0ec25e3cdd3ed2
+audio/street_traffic-helsinki-166-5090-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b1bdcd3d738cd1d6ac9d6c7f12a593d3bfb22a5bdedd6e5d9f7db3582133bb4c
+audio/street_traffic-helsinki-166-5103-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,60c51da4c2d9a0bbc7ed5bba5c7830fda4e40ab19784c698d00af5c245cd3028
+audio/street_traffic-helsinki-269-8169-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,edc70d12fea1c4b008ba5fa0625d9d1c53ce069baa5cad38fac1760e8f9efa66
+audio/street_traffic-helsinki-269-8173-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b369d0928f36b4b31d568705c9920fcdabdc0155d582428d423edeb66b525b23
+audio/street_traffic-helsinki-269-8174-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3e771279d4e5012269b125cb239a6bd3a0076cc760f38661bbdb904858a43b21
+audio/street_traffic-lisbon-171-4432-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1610303ad5110883b21dbdb40be870e68c6e7fd0b43b34911dff57653f9fe83d
+audio/street_traffic-lisbon-171-4575-a.wav,audio,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0f08e3a6f96e5453d585cc5705797c85f871a64e1d648f3a828766b8558cd176
+audio2/airport-helsinki-204-6138-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8bebae1a78bc8da581f426a8790b1a9ed2c87afe3e4a653be4fe6e5367c8d0a0
+audio2/airport-helsinki-204-6142-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f92b312ac994b0ad5315b6b6f9d4d5bcfaad81b1b3f86c35b358c68b28ffc1df
+audio2/airport-helsinki-204-6143-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7eef00b5b7d4ada1baca59db0cbdba50fd774872806048e49628a84fe4fe6ed9
+audio2/airport-helsinki-204-6164-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ff7fef0575f3e7979a581a2e1cd5f9167962a07289eff6d0f45a38fd59f6ecc1
+audio2/airport-helsinki-3-112-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5b66426ef6f20d5f3c59fe497489078fef0f0b18de229d6cec23dd45f15e562b
+audio2/airport-helsinki-3-113-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,718460cb713669b3a8429b52b06d5080ae055c54542f23df3fb04aee47a5c4f1
+audio2/airport-helsinki-3-116-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5273e1f189b9f7de4840ca97a25f12af852c490d2e9bf072b0267486fc4903ff
+audio2/airport-helsinki-3-117-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1cbb6b57dcb84ab4a90887859a8244c4c3ecc72499de047ea6a7e8ab659b01d9
+audio2/airport-helsinki-3-124-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3add346d0eda87fb8730c59d24d102609161ea8fb760a042d405b5f06e4a777b
+audio2/airport-helsinki-3-127-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d69a41070fbd01cc8bd5c8849035cce962445c7c36d2fccd13ffa2c2ccc48515
+audio2/airport-helsinki-3-135-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,58cfbf3e7305cf6b8ccae47f0573ba8fbe82864c96f31841c2f6e729925fde9d
+audio2/airport-helsinki-3-154-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b8dc0f85ffab3c3968c45878a7ec828b3dcf24a9742c42744ab59e2639dd990e
+audio2/airport-helsinki-3-156-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b2b75aaba972de0bcb9c8b417f578d80e37505633eacc8c90b168e9306ee6a6a
+audio2/airport-helsinki-3-160-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,909ea1b8dd558945277adbc1c7fba377fa40e017f2fc408cfeb79af68111304d
+audio2/airport-helsinki-3-167-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,43fe6d20de0cf05bda5e39984cf6640b52dc437e875534f1c2922b5b907381b4
+audio2/airport-lisbon-175-4700-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,77282c907f0cbf0a7fbbe63621776eea8aca1b98d3d0f3f8318c06d6b2c20a97
+audio2/airport-lisbon-175-4703-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,38b0459b0c45ee59e1faf8d0eddeb7630b7294502a621d52fca6ac9f1cb2d734
+audio2/airport-lisbon-175-4813-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,87231fbd8229ec6dd9fe55441f73376c81176f35463e95bed2d7c8b8e589ec05
+audio2/airport-lisbon-175-5070-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4b854dde888297b351981e35e933939be103658e71ad913a316239736421d474
+audio2/airport-lisbon-175-5340-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d53724c130d868cda2eae969239574427562dbaf487e7d3b9f28ca3747b2ba70
+audio2/airport-lisbon-175-5350-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e3202fcae44e2a2fa2dd9488c3fa8a312a8615a0b39d01ec267249312d5a54c1
+audio2/airport-lisbon-175-5351-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e67f004ca482cb67f0e33f187bdfb38430f82a7ea164a9e7414aeb0721a2f051
+audio2/airport-lisbon-175-5357-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,afce1a592f81b26e61a5ecfbebcedbcf3110e8c789db302efd03cf0a27aa9df5
+audio2/airport-lisbon-175-5450-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3fe7bae6950ef09ff787038fb7df84fd756bd18aa5e9a2900f0535a6d4a1f82d
+audio2/airport-london-205-6195-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,63afba230ec81724b68978336bbd3920b3c3e42e6f573d85e318a132b74fe6df
+audio2/airport-london-205-6199-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,db654f45e3ad321ec80c99e3f6be5b61ff5021dedf13aad98b418ce7e7ce19ad
+audio2/airport-london-205-6215-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0358fbe61b5ac9d40033bdce6b4345f92976304984c61e0624b5c5001ea2f40f
+audio2/airport-london-205-6229-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,750b83a6ad0c60a93a6cee6d1bc5c8860c06fcfa5c4ffd8d35631b46a2ae64ab
+audio2/airport-london-5-230-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9692ed650af8e945430f32eb8467f5342b3b992ee3ef711fb058591d0bb3a8bb
+audio2/airport-london-5-242-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,518930da119286b90feaeb2a8736a995ee0154568967cdec1db8aa55264b0a5c
+audio2/airport-london-5-246-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7f06d769df562e29ff20c1e2274b8181b559d12b1941ba7f51a6901532e0cfb9
+audio2/airport-london-5-252-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a02d85c6fe42f4c7cc50eeed30df52a1351e42ae45b3b69467bb57933155208a
+audio2/airport-london-6-258-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,23199244b31e08540c9b084c6d15565d8d7e945a0268da9958a43ccfd43d804f
+audio2/airport-london-6-260-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,44dfa2bcbca4398cd53931f5756bc09e423e76162b31170ee84236557eb4e2a2
+audio2/airport-london-6-268-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a51177aa17467ed6874a632e0976fd8cfca3f7166a915933c55da5fe4c402c49
+audio2/airport-london-6-281-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,bab4d791a73576e7bb4dde32b3029c96a5635e0dfde5305a902bee554256399a
+audio2/airport-london-6-297-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,394d47c3cc584fa84e8bd3a53724e9f0c0c27f415f43150b7489952099f98361
+audio2/airport-london-6-302-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,60d258e6dba6d1a3fc29a11d4cd816ffaecd2c69153615eaa52b9feefa031e4a
+audio2/airport-london-6-304-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d47665917cb960442ee1a94db0a21e847da6bbdc7c5d752a738aa2765337b2da
+audio2/airport-lyon-169-4100-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,10fb054d841fb08dafca0c98618a02ca390c6c6abf2db4d561960aac93d732f7
+audio2/airport-lyon-169-4283-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,10031a4b4f12c8a0de117af100126ca8fd8d0175b6475d63d1c437033ba9fd6f
+audio2/airport-lyon-169-4314-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6cb251215c923795924f634ee7af95b85d097d3fb7fd84c664ff726a0ead5455
+audio2/airport-lyon-169-4486-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,efa8a9ad5facca9c12db3b534ac7122e1799c1a7d07ba3dd1348942b9f3b23e2
+audio2/airport-lyon-169-4497-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8a9d01d1fe042ed65e72e6f431bba18bfbff43ddcaa3eee059a78a2c3ff709dc
+audio2/airport-lyon-169-4981-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,aade1a9d9c2087991b699543a2c267cafd898686f2b1b2349368d5a63adadfd2
+audio2/airport-lyon-169-5068-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b6fa4fb107dc56c734be3b78f7fede7cec603e9919c272c8291029af60417d50
+audio2/airport-lyon-169-5263-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1d39de147e3891926627fcbc4e2a91e2c919442235ea65ef5434aa6bfc128521
+audio2/airport-lyon-169-5498-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8b85cceffcfa7799d31a90ffbbdda5a4cb84495f54a1f09d3f587bc94727323f
+audio2/airport-milan-172-4126-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ef8053b8e5b4ff21d57b606216813c38574732af309afceb456dbb4d74bc0e2b
+audio2/airport-milan-172-4524-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,186af24835e7e688212d2bac26520d5b4b60b52467938f7c63af6c9219d66b52
+audio2/airport-milan-172-4567-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9df1d949cd1200ce807536e2cf2d03fe441425714360339b10926c612ca364c3
+audio2/airport-milan-172-4624-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,04a09589c8b653d8aa07d619f968cd995da2975169f03bc758a5a1b9b68f89fd
+audio2/airport-milan-172-4762-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a4647128b85c27b590e3a266bbfc91b414047e1db80d557a7d5f4ac87586bb9a
+audio2/airport-milan-172-5214-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0418819576bc5b9315cabed25cf758f4b512e4b57f9f77ccaaff59f08413fdbf
+audio2/airport-milan-172-5320-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ac137de985a19de3ccf5c4a5091b7715fedca6e4d15b3f78a2f7ea801f197cde
+audio2/airport-milan-172-5327-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,70606ebe6dfbe69e0a6bb81de01533b6e9dac773d35fd9873e623bc13a537c97
+audio2/airport-milan-172-5490-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1a697a004289de82a723cdbb3e089f2be7c6b28833a75ec4174541ab043b0e93
+audio2/airport-paris-206-6246-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3c1c49110bff9fa11201de41974820ed7a2b6b171d6cc3264d60f6c88c0d96a9
+audio2/airport-paris-206-6257-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,17c4f97691805e86098a72fc45a850d60da7a80ca33d404588edecd3580042f7
+audio2/airport-paris-206-6263-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a9c8c5212b0b4b413cb12757c1d52f9e31b30ef31ea9fd7b0af3a74551286d5d
+audio2/airport-paris-206-6276-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,355d80635ef3d008ce39e6981bd8a00ff84d52a7c5aa9dc9bc046c700d8a321b
+audio2/airport-paris-7-310-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5bf629caa7600a02247ee03231ae0403305ca32c97541ae80eea129b14ba1cc3
+audio2/airport-paris-7-326-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,93c61f302b358011b88dfb05637a2cebc80966697b3653df1a6c306999a41f3c
+audio2/airport-paris-7-328-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,29932f64ceac0de41c609d6d4a7d9116d480f70f4ee0a9c2fe0386178be1779d
+audio2/airport-paris-7-347-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,aa5d9152ce0b3ed82eafad243fbfbbf330b6e9d963b2af0cabb0c2552eec9fe3
+audio2/airport-paris-7-350-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ac2912af3b425b5bef251b85a0a18374274ee2f06d8f3c1fa6cf898999daf98a
+audio2/airport-paris-8-365-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,880feeb87ab16715931bab9473e0d192cd1392586dd36772de1a1bf62157d6a8
+audio2/airport-paris-9-376-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ae6ecd99dec8050702dbb222a9627ee79a54d0e958900fdb8fffa8831a29a430
+audio2/airport-paris-9-379-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0f206b710ecda165767434e96ed7e107f7d0fa0732727440fce8e23471b71ce8
+audio2/airport-paris-9-396-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,841b79096422250e928762fce5fbda699d45e7741e3faacb06e6cd3f34efe70a
+audio2/airport-paris-9-399-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c143dffd25fa1b07d3019fdf039dd28cbe58cf849bcc173bc3e82ab9f8ce0d8d
+audio2/airport-paris-9-400-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,456e915fdb0ba99e9b624c6a768ef633c3c165509ca214852bd2f31bc1c4468a
+audio2/airport-prague-173-4104-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ffac792b417abe55f0c36d28f0dc64586be021f0f86334dbaf1f0d3643ea9f42
+audio2/airport-prague-173-4425-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2a1416c5c75fffa4a64d93752d5ce6ade8facb0aad92536b887cf0814d05b954
+audio2/airport-prague-173-4592-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,efe868b122919f0da3871b53a0b20f7d2efd091f63371955bb1e72180c755adf
+audio2/airport-prague-173-4997-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6bebb1b5b6c1335ced81e89c7a3de89a7ddf6c43205c8267784739ab72ffb8a4
+audio2/airport-prague-173-5742-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c027bd592c709115fe9213d9c5ddd68b76862ce199625acb62c2e3e3e39508c9
+audio2/airport-prague-195-4169-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,bf6384acb950b2340e0de61f09e363566761438a98855ecf4b2b4bbe18aba070
+audio2/airport-prague-195-5597-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,957ab8d882215f8ac9a24a968f056f4002ddd68c612d76cc235bffc26c9492a1
+audio2/airport-prague-195-5657-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ff027467169a53fe607bb13015e5583d273f47ecf371aed303aab4c256237054
+audio2/airport-prague-195-5704-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,fdb0da59cfa39c5f5373dadfb7278f622b748c1545a047baa9192efe2f43dbb8
+audio2/airport-stockholm-10-423-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,08b1cef9c3d33988d3e862a1a9daf7948607cb68d7019bb3e77c14f51db6b584
+audio2/airport-stockholm-10-428-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4f775af5064e66c9eae6191969482f233957d9e0ca65d6e92811e4573c38762a
+audio2/airport-stockholm-10-432-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ab450178a1b9824f008ea42c5a3f1993237bb675d4a0560399343622878fd4d8
+audio2/airport-stockholm-10-435-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,51df30dea4aba8037513e70ec3b7bf14faddae94b26f39f50ace59bee52715f5
+audio2/airport-stockholm-11-454-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,01dcdfe1238a8bf830841095c7d7672fe35fa25819fbbec29d76deef661fac5c
+audio2/airport-stockholm-11-459-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,28b1c6ddd4f9a7d75ae7a6a7d3e63a3af350c465fdb223264f37ccd2e7a1cc45
+audio2/airport-stockholm-12-484-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8a3add1cda33739de0fa2ac2ff2ceb2cd6f90bf1a04a06bfa2b27fe1ba92daad
+audio2/airport-stockholm-12-493-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c8e984b5df4c67d6b8b94ca73d72fe9361910ee9cdfd2ce3e13fedb56f96d324
+audio2/airport-stockholm-12-498-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0a41dd9ab22b1091119e26a938275f8b50377ba532674a873137fa56d40751fe
+audio2/airport-stockholm-12-499-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c93bafd532a3c81fc1413c0a36cf26330241560efd16abd1ba22e3cc3a468d3e
+audio2/airport-stockholm-12-508-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e18bb470bc2b0ed78a5c66ce532791c494a2d37c46e84405d7d5d89ec6be64e3
+audio2/airport-stockholm-208-6321-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5b0478b6c85227749eebe87c1c277f234ed759eeecd0c934ec7455cb821b3626
+audio2/airport-stockholm-208-6338-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,12d5d310ce0fe49ab07e45b2254454d94745c7e77d106024f1d6175dad955146
+audio2/airport-stockholm-208-6341-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2bd68af5d6c783760e2f8b080067920503b401962026c79ce08dec030a745fe6
+audio2/bus-stockholm-35-1041-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9eb1bf29c4055d9b7863f4395b59a177873c1fb00f6e16f026597643f1339742
+audio2/bus-stockholm-35-1043-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,898c602751cb2ce2db6fbb6dc6166be5240eaca7135942c4634c73f387834156
+audio2/bus-stockholm-35-1063-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,86e05169e0026fce98b357b7f421476fd7507e145b867b4598102eb7ed024d71
+audio2/bus-stockholm-36-1066-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7ae788afe9e360b2de3d5ddf3104493f1f5abbe4ae00328a6b9f98b4fa3bcfcc
+audio2/bus-stockholm-36-1067-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7f1f9cc758e4dcd786d05a8d9b7393b3d0b3f129096b6c20db7e80c3677bdac0
+audio2/bus-stockholm-36-1072-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8e54d182fc927bc10e70d7d2cbddad0a2575ee096fc8ab1fa3e40ee450303a40
+audio2/bus-stockholm-36-1073-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,62ee3fb581a2aa20834fc6f4604492bb30f53e9e7409da80bf7eec36faf9c26d
+audio2/bus-stockholm-36-1083-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b86dd2ebbbb80b9f78d33a10fd11654360b799ca5e28c4a417e0b1989679b042
+audio2/bus-stockholm-36-1088-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f29c27cdf7ed5bf754978a4a14a54c270679f0a106208fd8245535c348d330ce
+audio2/bus-vienna-219-6610-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,bccc425d17150d3377f831e832aba602cf0f31d8bb119be289701866c810e7f5
+audio2/bus-vienna-219-6617-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,893b4b3c963eb2f05c5f537c7299677c05a5ef7e92a291647290191c69a9ac6f
+audio2/bus-vienna-219-6620-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7c3ab503091bbf5f87e2f7ae89e26097fabcd01a419e3182104bb4927a8f68c2
+audio2/bus-vienna-38-1118-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ad1f0014eb2245098094fcbb6305b022d655863af9c0bfb99e5dd20d60286eb1
+audio2/bus-vienna-39-1149-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,20766b0c5e8d358b1b053964c3b9453457bf3bb446828ede3a87928f54c72148
+audio2/bus-vienna-39-1150-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,20178a99a23018d667fa501eeab6a6bbdb6d18d6a2134eadd078a15a37eaf775
+audio2/bus-vienna-39-1155-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,84c0ac9cda7ffd889a804919bb034a40f86f50cd158f5f71f2284e13e3ffcc22
+audio2/bus-vienna-39-1170-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,518a7749d739e35662a57e566889af76d274da9a96d496620724fbc0083ecea0
+audio2/bus-vienna-40-1185-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d372ddc3528d2d956a81b4a9d1ec3dbedbedec302ae21b46bb53f1fff5751e76
+audio2/bus-vienna-40-1186-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9994200b2112b3f6bd2946222ef17d50c87bdb060c5d6020f7c5afde2a26a79a
+audio2/bus-vienna-40-1208-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e3a4786cebadba1a78167ea8d51d77c14f087f763ce5e2c8e17731f757a23e40
+audio2/bus-vienna-40-1214-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ceafaf5b111e454fc5b8de70bec1f7ee75ee6c3fd820df627261b648f224acf6
+audio2/metro-barcelona-220-6659-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6e6b15247e6a9d2c88bdc11207d9c8c78ac6734cd44e9336b63fbbb09be0ff37
+audio2/metro-barcelona-220-6662-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0f757c92f803d400c91aa56e4cd47091a13c3729f058f8709e3ad21cd414a96a
+audio2/metro-barcelona-220-6668-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7fdc758663704e68883f407c29ffc051366e8746573f0c82e8316a3eac63856a
+audio2/metro-barcelona-41-1227-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,674b3868fb8728fb77de1230d931298623fb4ed1155364b037e7a7cf8031d76f
+audio2/metro-barcelona-41-1229-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,75757ba7ba0f30055905121eaac2bf13934f6d395f58cf41850e48c017d8db2e
+audio2/metro-barcelona-41-1235-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b070ea243d54ef5e332199805babdd55bf15311680dc0cbea849f7b8afe63fbb
+audio2/metro-barcelona-41-1240-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,48ceab4b624a0566c814b882d597f93d01b8bf6bb8a5d7004c095c67d9c517c1
+audio2/metro-barcelona-41-1247-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f3fe9a7f9fc08fdc83b58c6e0c35ed72f92a3dde96854103359149664b78dbce
+audio2/metro-barcelona-41-1252-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9e048a1254f3935d0996fcc3047c834e9f40d7bc1a6fd990a75ef07eac0e0f2f
+audio2/metro-barcelona-41-1263-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7cdc0280b56943973d3e0cb95b986fc4a73d2a02d5dfc0d7a688f97d1a3566e6
+audio2/metro-barcelona-41-1264-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c9ca25c4b9b716545c9f73dc2f467f16de471f0f46838c13623ceb0c75661e66
+audio2/metro-barcelona-41-1266-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d6c28e8d7fdca75612b6b6a49db01e8bba5ad3c22e1ac07a51f6f1fb21d0710b
+audio2/metro-helsinki-222-6744-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1ad3712b10ea242ddade2b29e298324e2608584237a3088f566c2e982fd3cd27
+audio2/metro-helsinki-222-6748-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,faee7109f7a465661fca4077e19bbab1e4567ac31eaa8feee2413d3bbbabb40b
+audio2/metro-helsinki-222-6766-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7019606a734fd5de9e4087e60cb0b79581dcf651ad2251b091859e1d1612afaf
+audio2/metro-helsinki-45-1332-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,bcb06daa2f04dcd57f17aad7112f20a9ab1576fd591ccc095e4678eb124663d4
+audio2/metro-helsinki-45-1336-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,fd4ba076034a2271c4c286589f8270fb8655ac2be8c20fc01bb9474af6c1fed3
+audio2/metro-helsinki-45-1337-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,24dd65cf9419b425fe6b862dabb937dd092ca87cf9b4d97b6be746c4ad8cbd32
+audio2/metro-helsinki-45-1339-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8f582287f42eee8f93af8fa177fc8d7b579702d3b1d2dc05610dbf9bede3af1f
+audio2/metro-helsinki-45-1344-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,555c18c3bbc0ddc1bc216d9f6be632d751f7a11087406cbe5eb7df5da6ba7de8
+audio2/metro-helsinki-45-1354-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,742b3d2cd53cf375a7829791307862120d6ca87f0048fecfeef42ad24df02475
+audio2/metro-helsinki-45-1355-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,71c99e65ce283aff963a994d221e53c2aae087e482cef983bb18e5fa7121c6f3
+audio2/metro-helsinki-45-1358-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f2110afe4fbd4b7c2ae784d1306fa6b040b9c4abcd0884ecc0356b6b2a85b242
+audio2/metro-helsinki-45-1363-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,04611663d13a81de3394726b779833094ec99019eab7f34f7337f317cc4ba552
+audio2/metro-lisbon-199-4150-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8669ce8eb31014af3aca81fd66084eb2ae440334b680288aae5fb6a96ebc7a63
+audio2/metro-lisbon-199-5154-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ce06ced2994d841aca4280338eee91f4e8884499d4eee3ab630a61512b056346
+audio2/metro-lisbon-199-5240-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c9e512b7d3125fcea1035cb6dbf40628720ca18e21aefb7bfb5769905daaa260
+audio2/metro-lisbon-199-5634-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1d7a5c356d7ef7705251870544242504e73c54d9040092551a19443e58716f2e
+audio2/metro-lisbon-217-4266-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6bc73f4781c6c01b8d2fa5f7868528af63f1a01fd61cb215b4d1f4e18b140486
+audio2/metro-lisbon-217-4679-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a24e5f915207f643f062a474a5168ab6da00ddef2bab5d95f7fafbb2c8c23460
+audio2/metro-lisbon-217-5062-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c57c84141f6fb4756d934b866006027d7bd11eefaec1056d9b8d652b027c94e4
+audio2/metro-lisbon-224-4455-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ec5f63b3a9172f4ec6e593d6c1f6453991bd23d064ee9b2791edaf510e5770ae
+audio2/metro-lisbon-224-5162-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b0361823bd2d85ec7ec9f5c2531be17aa1e0140df7201a342da96c58147b3340
+audio2/metro-london-223-6771-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,73ff9ef015e2bd79fc17ecd80310719211246ef66cda3f319a8f699b76f1d6c0
+audio2/metro-london-223-6774-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,46f29eaacbacdd8163b984c9c4aa5588d393cea9eb4f4f33c2992ae3fbc6526e
+audio2/metro-london-223-6775-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,64fadf72f746656e13aced2ee62374129770bddd31e7f5b9e11a918e06196f5c
+audio2/metro-london-46-1377-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e09e1849a6da0791a683a555e065e4067ee62556ddffc2ab01af770f68eec9dc
+audio2/metro-london-46-1397-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2bec7185ec03edd47b02c99c60271d68cdd7bc9c2736d029de8f5b29cab2e226
+audio2/metro-london-46-1401-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,dbcd98901385848881b8a391b190a8e7b5672a8fab68d05c17407e2dbff78633
+audio2/metro-london-46-1402-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2d8025afbc1dfdf73ff2adab4776929dd8c4c6738cda2220ae1324f6df529d09
+audio2/metro-london-46-1403-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,012809c1f60d25b14ff5f7db31c417393937d83ae49d59a1afda38e81f840249
+audio2/metro-london-47-1428-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,28f5c15a3e82da9576bafdbc029e2dac3982582b2a6cafebee38485de4e1d674
+audio2/metro-london-47-1435-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,89f8db913ab154277b5a4c0e93ffcdd81d467099de536a556e4d4cf7e1af30f5
+audio2/metro-london-48-1450-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,49d55c721739f116686bf44825bea8c876df7dcdd50b2707a994ec2a4b67105b
+audio2/metro-london-48-1468-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ae60ca1466c7fc0335817ecf12317be49e4df5956e18f3092bca573869ed7b9b
+audio2/metro-lyon-181-4146-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b7eafcd5b2024545943fbb2033fa88b26759593e2b00b99bc9ec58fa452daf60
+audio2/metro-lyon-181-4168-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8a3f721735290c354c44cda060c51d8c0a0d150ab42e00b068e348394a2daf01
+audio2/metro-lyon-181-4952-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d5b3265ed2f75c76d8b51f6e054d81e15bc603ecf44b4a2638adcd945a931279
+audio2/metro-lyon-201-4196-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a1c17143809c66bf5e02d39a7af7f1eb8c9d8ff27f7900dbc025dbd6b94adbc0
+audio2/metro-lyon-201-5023-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c8462001eade9c34612fa9447e90cf444e2849ff89b983f3af8bc4eff5342a99
+audio2/metro-lyon-201-5360-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,398dc6ce8b2593f8d746d8f7995ed66460c8d3bcba77dc96685fe1daee751a6f
+audio2/metro-lyon-206-4172-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,be4da4fce427f737a063d8db36f24c14f7057ee261e55146556ba2f3516e3344
+audio2/metro-lyon-206-4814-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,95296b3e9a395ead0cffe7e3d5f4e16264e29322215afdbcc7e8198548b2658f
+audio2/metro-lyon-206-5148-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d96bc5eefd631f1b14a0e7cecbf53fc82de91378837e41af2f6faec5fa820ab0
+audio2/metro-milan-197-4231-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c84b29c29fdc163f9dc81dc2c3b2f5ac373919aec239b16652e62d76a5045762
+audio2/metro-milan-197-4875-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4e73ea567f9660714eadfcd9c99a7328fa299973471230df4072e5040a6cd2b9
+audio2/metro-milan-197-5069-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,bfdaa7dcd0ea363da680b14d83f54c3d6973d3df93b0e51dd6bfce820e0d2332
+audio2/metro-milan-197-5231-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,39825e6578e540de9d6110e64df186292c9131b452aa4d811c77540cc8c0a47c
+audio2/metro-milan-197-5646-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5be525139afb7024af36c3e0475cab412aed6dd097591be52fd6e6daa72a81cd
+audio2/metro-milan-218-4535-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f36ac748909bf49b7d715859d6ad958d94774cb758fd061116ba7aec42d200ce
+audio2/metro-milan-218-4758-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,248347e8a66f744202039d17255b423504bd823199bbce4437fb821510f0d89b
+audio2/metro-milan-218-4775-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d1687a3d39cd336ff7350192c61f50e565094304567816e77af9cf9ee9fd1c5c
+audio2/metro-milan-218-5027-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4aa585c47e4516a5a1ec9d710300576f09ec97efb937acf9b8790785f6ad2e88
+audio2/metro-paris-224-6784-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,17c7260cb6313600923494cef79467b2254e23cc31bc82d8152575e8c0bcddaa
+audio2/metro-paris-224-6785-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ea84e60cc84e1a50151829e77b01d478e931f5b17d73862527363ba4a2b964d9
+audio2/metro-paris-224-6792-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,30170be34f837a3fb38c8e58d385a5351808f89a6f1360c93066dc99b5bf5b20
+audio2/metro-paris-50-1524-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1632c5c7a8d6a10d20ade4887bfd1544c96256c344da6e93e9d901dbea7830d5
+audio2/metro-paris-52-1548-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a4be4a33509227f2de8ab3fd056e55b8da50d750da4fd165581e5499464ae025
+audio2/metro-paris-52-1549-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ccb4071ece4597f5dbf8fdeeb1403b144aa469139d7b7bcf8edac437debe4323
+audio2/metro-paris-52-1553-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1c852b7f580e248855027cef05bda5a4c04efe2789ecf2b9b1a5e555e467d5b6
+audio2/metro-paris-54-1568-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,cfce2a68abee89ab04cbe4e183870b42bbec0eaeb03e31583893f97d19df4ceb
+audio2/metro-paris-54-1576-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f3c8abef6fdf252357f9984d15908dfbaf958c5d0da62428fee3889ddb67f176
+audio2/metro-paris-54-1587-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,52cea2c5d862cef26a158a0e65314424c822ddf3d505dd791e38ec4d2bc4c32b
+audio2/metro-paris-54-1595-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,978a0eb6a97b4ee6ec2440249406a851defd092bd5ed4e314c45c15686220e06
+audio2/metro-paris-54-1598-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c7817c81ecec2ed3346dee57b88801578f010bf4107e9a34cbc6cb30650d1691
+audio2/metro-prague-163-4094-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4bcf1e8ae27377e3b88fced0da38a6b26f10f3b2db539d2f1ad685855dd6b92e
+audio2/metro-prague-163-4292-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,849de563e9555ebfa69917c1ad5988242391c177935c1acce4f72134c5bbd24a
+audio2/metro-prague-204-4777-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4b9a31805a6e3ef66c4cc6897cac72c3188777168d65477371c155d5ea385a70
+audio2/street_pedestrian-london-149-4500-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4332edd40126cf61c3d03f6cd615da86d34775f6b7486ac637412de8b5e14f55
+audio2/street_pedestrian-london-149-4521-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,084dd9e24c25cf589a7e93ec7e831ef6301fd2083364cf8a62498bac0418199d
+audio2/street_pedestrian-london-149-4528-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7d727410dd31ed4261b7be0b3854184b7530f454499d7aa0a087a3a2cf017eb2
+audio2/street_pedestrian-london-150-4542-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1685af55203f6fabab73a2b8035d5a186e4efdea7cc3fb84cb33ae310ef06bf4
+audio2/street_pedestrian-london-151-4579-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,fe39596385071f806b41de11230267e6a450b37fa398196f13cd87b680045383
+audio2/street_pedestrian-london-151-4594-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b092f6ebb065c6769c16c026cfcbc8a38c0031a87e3bb4b93814f92c3d923bc6
+audio2/street_pedestrian-london-151-4602-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3c957dd4da0490aad033e9ca3c90909d4ac4d965b42897f13c74739b81d1e018
+audio2/street_pedestrian-london-151-4603-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3e0ab6d3012c8a3652f747ae07434c256ddda78220584e6a74687222f5ed1663
+audio2/street_pedestrian-london-151-4604-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c389cf8cc154698320ab9e2bdae37a6aac39e2f430342f9a072a9546901432df
+audio2/street_pedestrian-london-263-7964-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e0e06737493f2d874b17d97f1284ecbd669edae7fd75ba03b3fe406938dbbcdd
+audio2/street_pedestrian-london-263-7975-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,29e5f8ec2bc76dd891fd7d3532d21efd014ed23689c3371c37738bb462668ad9
+audio2/street_pedestrian-london-263-7987-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f4eab8d8d5041ed6bb0d30da31be76425ad0a979bfe71e1d38cb46a1d69c0ada
+audio2/street_pedestrian-lyon-162-4093-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e144bc49c3227a3fe671abdc6efc467b74b3575fefd4f053dd349f7120b5ce3c
+audio2/street_pedestrian-lyon-162-4378-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1da0e72b34d598794bf4209212aac8b8a49408aaa133c16fc195549c1a4e2efe
+audio2/street_pedestrian-lyon-162-4707-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,439dc345fbd08ceba3e1e08ce64ce32dcaabd7115a2049ffa80cb6cf92b1317b
+audio2/street_pedestrian-lyon-162-4717-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4b90ad55434884cd2c97b10d46df396bd5f3cdafc7ddaf8dd32f4df4bc72c2f1
+audio2/street_pedestrian-lyon-162-4937-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,356bc9e67dc48d34221aaf4f698c6531c4f65d120b66aa019dcfaf6861a225bc
+audio2/street_pedestrian-lyon-162-5000-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,fbf2f7dd2bba4ce47a95aaeca0c55c819a9d25a525065d1c840b20ea05baa8ff
+audio2/street_pedestrian-lyon-162-5083-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,73c91409f910aa83f84138f7724a7a8586e1aaf63caf62d647bcb589748029d0
+audio2/street_pedestrian-lyon-162-5402-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7fd52b321568c6cb6c0d2e8f4ff0838a64097dbdecec21369fd9b368c9945164
+audio2/street_pedestrian-lyon-162-5671-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,92c2ab6d18c3e5ccf7fdcd5684c02b8e9fa1570c1ced9de840d1b5f818034a60
+audio2/street_pedestrian-milan-165-4096-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0e98ed396114fdf045d92292b8065287a4d3dd51b680e9f05b6072b258afb777
+audio2/street_pedestrian-milan-165-4805-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,586634eca04612030671bda64b006b0aa5ac3a78b0e83a94019a76bececf2654
+audio2/street_pedestrian-milan-165-4841-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1378179e380e1f74575c4f4e1621e711651cca7ded9ee4b94d19c521dfbd5299
+audio2/street_pedestrian-milan-205-4244-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,fa9f0c36a065047d6ddf210b85ba005208854d083bfad1c95b5391567466c036
+audio2/street_pedestrian-milan-205-4546-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,82eb5826537757d143a3119b42d822974a57de0569da331bdb580e714f02dcb9
+audio2/street_pedestrian-milan-205-4726-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ee46683307430faa6c1d187b78c6edc2a29f0b05245411e9e0c75f7890a63220
+audio2/street_pedestrian-milan-205-5325-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3425cb9201f4eceb68af6a1bdc0ee9def4a8233853c97412a3af1866664573f1
+audio2/street_pedestrian-milan-205-5556-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6e77a17dc0c2a399a4afac1f7d347b8e4e9dff7f693c5a10f162641e94518901
+audio2/street_pedestrian-milan-205-5565-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8786d871192472f0830333d6312bf1604d7c0f15834b471bb0a2f98109247c6e
+audio2/street_pedestrian-paris-152-4606-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b0cd27c5b4e1d523090ad6b8c5aa7f0d0ffbe2505b1f10d60d93c6b7711ec6c1
+audio2/street_pedestrian-paris-152-4608-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8a27b53c3ca52c1f6957b90368a44529403350b4ca4c414e1a7fa1a6097194f3
+audio2/street_pedestrian-paris-152-4616-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,be98cb9cf115b94c9db01c8bdf2425db7f881a5bfc52ae3780c5c6c32a4409f0
+audio2/street_pedestrian-paris-153-4627-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5de22afd68399c1926513bf27466de53c3ca02d5476f989d580630c4a80d390c
+audio2/street_pedestrian-paris-153-4639-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,60e886d6bd3b37936d8b739b95ea28c0997c7380af26d6b2f09e1309f22989e3
+audio2/street_pedestrian-paris-153-4643-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,649a930dd85c93fdc5072e02502e02d787b9393baa0a5ce157cf070a6e0728c1
+audio2/street_pedestrian-paris-154-4659-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d10db7cb190be99da925f4c03b6c8102f5138c4d6ca83c0a43021b947f3fa19c
+audio2/street_pedestrian-paris-154-4664-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,441db77b911057329201d583bd51279b4ff8bd79d90addee41474637fbc88682
+audio2/street_pedestrian-paris-154-4672-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2074db6a916055c428a6ad21b4810c1fcfa6172d80754a238fad385e90390d0e
+audio2/street_pedestrian-paris-264-8001-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,764867890ddb2cae97961902b4da757a2dc5f7fd0bdcbbca3766b135fa42948b
+audio2/street_pedestrian-paris-265-8043-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,86c1d0180043175519a9ee170fe23e788eacdaee74629f19a9f38fd06401199c
+audio2/street_pedestrian-paris-265-8056-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4d5d54d1356b999c7e4c1f76d94fd305953eceeb39374411441b1333ab557d57
+audio2/street_pedestrian-prague-203-4164-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,44b403e09e3da70dce1f597f03e3a396787fcc1a536fb55482c3853df47550e8
+audio2/street_pedestrian-prague-203-5186-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b6b678584c8596fe7b72228af6405c8be6b9383d89a9290e59f133e7d95d2200
+audio2/street_pedestrian-prague-203-5268-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4fd00d46df4278d1ac96214006108e45aafe0822e5cb4810872790c15a2c2fbe
+audio2/street_pedestrian-prague-203-5682-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,34ea5c82ad96b3ad0ebb30d1cb78861f23758ed43bfe3e9ab6eaaeedeb7f73fd
+audio2/street_pedestrian-prague-203-5723-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1c6a03371b97ac765de6a2f918eb74917bcf96b5bc4e2983d41f2a4d63ca45c2
+audio2/street_pedestrian-prague-203-5726-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6a5fd9adaa7453ae2785d965cf0865d3bb24c8fcdced76f802206a7e31bc76ea
+audio2/street_pedestrian-prague-227-4653-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,84ed188eeb776bfbcca5fa9ccba5b3d0dbb83c2a4a9cd3b75c3ba792a0b3202f
+audio2/street_pedestrian-prague-227-5094-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1202cfb835c7b6a91413a8074ab2d1abe76fa0bca82b0babaf73247f599fe1e5
+audio2/street_pedestrian-prague-227-5101-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,037e482169a689167aea7028be741109e03a3ddb91253141dc1b23fdec4322be
+audio2/street_pedestrian-stockholm-155-4679-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7b60cae92b2dbcd9aeac4506a688d0527ee01bb783b336045b06a7fd9d54d147
+audio2/street_pedestrian-stockholm-155-4684-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1d5243ca567d784d4d7cf34ef0ed4a87659429b1ec3bfb5aafc43fe06dd7076e
+audio2/street_pedestrian-stockholm-155-4699-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8f7d5e697c6e87b271dad4233d99f6e3d781df844ecb8fd312042b2fd8e50e52
+audio2/street_pedestrian-stockholm-155-4703-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,03fc8f664e39e155488aa78ffc065137bf53112046587399c5aff5c204451055
+audio2/street_pedestrian-stockholm-156-4716-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2e6051b31f361eddce61bef5441a225f38ca9e8f7bd2d6e878dc93eef95e6fe1
+audio2/street_pedestrian-stockholm-156-4717-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,105e1a624dec3e5136e6b3da2c25f20734689860670a6eb7acbaa38788671215
+audio2/street_pedestrian-stockholm-156-4744-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,73d9b39e2ecb72f2227a6197850c1f22e853537ea6b2c13dc13da310a3097b02
+audio2/street_pedestrian-stockholm-156-4751-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9d9dfcf989a10a007a774e9b06512113a0fd6033662d95b285000898587b378d
+audio2/street_pedestrian-stockholm-157-4755-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4204fc7198e5ffe45a9b17d85441ff8d6c3cfc828cf601362324b3195f63cae7
+audio2/street_pedestrian-stockholm-266-8087-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,54c0c52977a61c9235305ce674a61dc968d85e0cb678768c106371a78f6607c0
+audio2/street_pedestrian-stockholm-266-8093-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,64f2ed5705198e6cdcf22651f4af1072178bad186ead69b8f29a08714b91883d
+audio2/street_pedestrian-stockholm-266-8095-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,901a91db0f66987f43b41eb9dec36effcb2c158ef717a1f26e772f3a742fa1b8
+audio2/street_pedestrian-vienna-158-4795-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5b9b79ddece70df37aed17686cc050ff75e8052af4e78f20d20b49e9de370072
+audio2/street_pedestrian-vienna-158-4797-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c4452922a80cc33fe0c2c405d9abc3010ff0a3b6af002f31c3f252035110e630
+audio2/street_pedestrian-vienna-158-4812-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,bc6fa8db15c1646d91d0bc10087094366c62feda6260d4fc5df4c3f8587d8076
+audio2/street_pedestrian-vienna-159-4839-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,66ac8e1bc704c5a52b21bbb630e5301bb6e5251e4034cf40324b06d6d60140b1
+audio2/street_pedestrian-vienna-159-4863-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,43cfb9b08582848fff1fa49aa4a06a33d14fd1bd6f335c0fb39adee2ddb887ed
+audio2/street_pedestrian-vienna-160-4864-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,fb0e52b6bdb02d0d42a619deef53f96124153c8d0cf02ef5ded0f1f45959f9a8
+audio2/street_pedestrian-vienna-160-4869-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ad3b49b058d28085e36dc280419235c13e34df4517b417b0aba177f306920872
+audio2/street_pedestrian-vienna-160-4876-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a6a509de7f2d754b6c3a8c77040ac63012c00ca9d70de471fb739103a94ead6c
+audio2/street_pedestrian-vienna-160-4893-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,36c3610100f0b619da2332f957650a736963feba59ae2ddfd5820fa6b46bde6f
+audio2/street_pedestrian-vienna-267-8113-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,70fdca9c41f71a6f96ed2bcf59f1f69b3ab24b9e759262f2e278d4402af7889c
+audio2/street_pedestrian-vienna-267-8123-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d4a8bf05552820252e5d1b7ceb226aca7212f85c98b5e0096e0db95652937f05
+audio2/street_pedestrian-vienna-267-8131-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3fe27403c1fca320257f9b637cca4c2cb5ab1a05c60a4a34420e11b4069cdd5d
+audio2/street_traffic-barcelona-161-4903-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,309d0941c1fa4a51b60acf126df0b333b53fedf706b68e584cc98bb64a4ff4c4
+audio2/street_traffic-barcelona-161-4908-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,55b054b3facb521249bf6bc47b7beeef3b4698d89c86f3f8f755559ef2b1ada4
+audio2/street_traffic-barcelona-161-4910-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4f68983d06b34d651361e95099559a29335a8b8b157e320fc75bb66c70c97074
+audio2/street_traffic-barcelona-161-4916-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,dca8a580e3dd7543a64266a29698375d7f7dfd1c528c098418e2561e5bbc62db
+audio2/street_traffic-barcelona-161-4917-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a750fc1fdf50d5f889150ae2477d26c919b76ca87cc86091447124e2c30a5323
+audio2/street_traffic-barcelona-162-4946-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7aba4577d3014295608f38077740c7399c8995c4bf29f67d66c09b4da3341dfb
+audio2/street_traffic-barcelona-162-4958-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,30198f0253774cecd501f6ce446a2b051cc320efbc7dfa43ec140a300f54d82d
+audio2/street_traffic-barcelona-162-4962-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,64bbb1fcb51820ce9a270b813a90ad86a6ea497f25aac47908da26f56c48e207
+audio2/street_traffic-barcelona-163-4974-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e786ffcedceae537f32d7f7157e781c7c072b4b0d8c769d421b51ce162b16f5c
+audio2/street_traffic-barcelona-268-8139-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8884755ca556e2798239b81430f35c80a385a1a3e29c04774e3119e09b020476
+audio2/street_traffic-barcelona-268-8156-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9b97f7f7a03ddc2f2ed34c09c3e57f6333d5257e37ab339d63be110ebba80219
+audio2/street_traffic-barcelona-268-8159-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5a8c3322d00c6e5370ce1ce13d08220eb3511515cb90905bd8b03f695f741b1e
+audio2/street_traffic-helsinki-164-5017-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,fd4544ecdd1fa9ddcdc1deaf8437f7b3cf3c962b2c06e56decced149b784c3b5
+audio2/street_traffic-helsinki-164-5031-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e2211c2c80a8ee785a9cea5a1eb729c9f47fba4639e1742a26a2fa14339f474c
+audio2/street_traffic-helsinki-164-5037-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,065118d163a7af74e63423f80070aa6a80fd1c41cb72316a1730f7e098959646
+audio2/street_traffic-helsinki-165-5059-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2188211e16fd47169b1ca588bf239d8075159cccb48a3765d01911811a7d8688
+audio2/street_traffic-helsinki-165-5064-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1012d0c4a65130dcbf420d334847ee1a85904846d184f87466a24662aa007255
+audio2/street_traffic-helsinki-165-5065-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c259b38151684e84072e330274d77ced2e0d35f5297577bb6987125fc69f5a13
+audio2/street_traffic-helsinki-165-5077-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,aba687c5d7cebf439059be1950a6f5d6b8b2af13a5c54b8bf0d8d1f57ac58472
+audio2/street_traffic-helsinki-166-5090-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f4d15507997b85154bf71d73c244783c72bf50c510f7d381899e61913669d81e
+audio2/street_traffic-helsinki-166-5103-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4d70738f70e5e3d7c78cb8d4bb432aaea14d850a5fb32f381afdbb963b46fabd
+audio2/street_traffic-helsinki-269-8169-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d63529bd0ec94782da271e21b4e4e0a48886be558b17209dac79b2d2308d3b3d
+audio2/street_traffic-helsinki-269-8173-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c10d7e15484ddb6e41eacc11974a067c190b6635beca2d8cfc94b608d4163519
+audio2/street_traffic-helsinki-269-8174-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7146d969b34617382ce355c578a264fe83efe3f88fe1e85a4de6a987261bd04e
+audio2/street_traffic-lisbon-171-4432-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,36f2769c6bd93f8fab8264211c1499ca5917ef55593a89ef477897d096d82d74
+audio2/street_traffic-lisbon-171-4575-b.wav,audio2,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7c9ed39865cc86ce2943964685d4f31e96fe2cc38b4066c69471c43a855213f0
+audio9/airport-helsinki-204-6138-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4e7693766e0fc7ca77d328768d4147c4816d418a48fd91178c7cd0681d9b225d
+audio9/airport-helsinki-204-6142-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1234722bdebde026a0b6edbbe33828cf4789ca24b5f5014503056f0111e31175
+audio9/airport-helsinki-204-6143-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2849069a2ffc20c31a29f54f9bda60ed1780fa3adee5ffa0b73f665815d3c4ea
+audio9/airport-helsinki-204-6164-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e19c84565c8a596bcf479bbeb6ea95cccd6805296705bbd34aedd8a7180171d4
+audio9/airport-helsinki-3-112-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7922d196e1118786e47aa99f238e17708c57fd24f8a50fbf29ef68a133183ba1
+audio9/airport-helsinki-3-113-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a9072f0b1d9d5a10e60913677e3c3a165460603e1237c3046c748482015cfd1e
+audio9/airport-helsinki-3-116-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,723fce1c84c459be9bf4b4b5c014ee7bb48b9493ae264490042491b3e4de5dbf
+audio9/airport-helsinki-3-117-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c0c34951d7d32a5a8ffe620d5b69bb6bbe851e38b0d8cf408626a4f81eea173f
+audio9/airport-helsinki-3-124-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,afe66326c3e5edc267ed1f322fe46250b8f3586ed7cab69894007e43a857b2ad
+audio9/airport-helsinki-3-127-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5c56a090c29880197a01b64b09bffaa50db09f560138b7b22a98062137fb72f0
+audio9/airport-helsinki-3-135-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,61922ad2d3b317bb055574722d61f93569bba902d7662383f7fc7b1b66217460
+audio9/airport-helsinki-3-154-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,cb0cef2e8432a3b24753304649f60ef1a7066fa17f84e42f6622ad86cd703259
+audio9/airport-helsinki-3-156-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,799f02f15f7452c2f913d2ded25f5d6117c02f96e2a238d6626f1891ea5988dd
+audio9/airport-helsinki-3-160-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5b011af6a13657f2091f1140818dacad88184daddbbaac3cf1ebc6180b29d791
+audio9/airport-helsinki-3-167-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a1c8a42c6872df41656de929fb9204d93644da7c9cdb81c305f33380ee82ad44
+audio9/airport-lisbon-175-4700-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,490c268982f63e827c4b4dc4b8bed345527fc2f5b056b10181a0a93cf9907ad4
+audio9/airport-lisbon-175-4703-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1448adcdd40e256b475aa4e55e0f87d86e44372ca496ce59a7a19b4072e1c399
+audio9/airport-lisbon-175-4813-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,755a83d34334cb70edca6f23c86d76141400bbd018fa4b8be40e180e37d33b80
+audio9/airport-lisbon-175-5070-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,fd51818bd6ac33785df65f732ac508c6e78275493727f97c5fe32c8018782137
+audio9/airport-lisbon-175-5340-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9f888e8eabfff13bb0bfa32976589ba2a25059f6285acd26f8a376162e1effe5
+audio9/airport-lisbon-175-5350-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f381a46e5273f0eac883d9792821cecadd71d8de677bac1a35259863b8c30447
+audio9/airport-lisbon-175-5351-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,62406a600574cd8de72271357f24eff3f04070b6af3d067dbd8f35fad0a774ab
+audio9/airport-lisbon-175-5357-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a84a46b92ad2fcfa250f6b77b37fc4247cb39c068574388b532bf177b5afe82f
+audio9/airport-lisbon-175-5450-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,be1b6f10e54c997bb8d6853d68bfc831c2ff396b0da326355d5e746683fd7279
+audio9/airport-london-205-6195-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4b9631a9c7e723df4720017e112aeb36d50fdea4a75348ba52ba227a00fe6365
+audio9/airport-london-205-6199-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,23821a681073a15eef5e2bfc89dfe44d05bd93f0d26ec76cb1995b007b741cff
+audio9/airport-london-205-6215-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,00c42e1d3c3c053295a30438036b1ca6768c00ad1da8f2baa43874447948074c
+audio9/airport-london-205-6229-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,fa1d10f3de49820080b2d231520ed15e56f89034e55bf30f357f0147574db7dc
+audio9/airport-london-5-230-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c8014726320fa2df1983cf3e0443e92d5480ec950a5b32f0e4620c33d40bd2ba
+audio9/airport-london-5-242-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,49f36f7db2ac63ab3f5575eee19ac6ab7be022618ad0d9359cf98103b3d83cd7
+audio9/airport-london-5-246-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,01061812b80cdde925006ef4b3b202a3b998e5c60c554e460af53cbe1484b1dd
+audio9/airport-london-5-252-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,17da9e063253aec02e9dea118375520229d2664a36302a75d9b3ca7c910599a1
+audio9/airport-london-6-258-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ab900967a32558496a520237d758307815b54bdb1e27a538e0013789701bf432
+audio9/airport-london-6-260-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ab1870d5274de27d21eee31e270f6af02b575172d831efd0bba2c9deafb0efcc
+audio9/airport-london-6-268-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a38c5221dfad21d9cbaa59dd5bc709c9e9a21fbbdc53111bd53aa95bc77fa680
+audio9/airport-london-6-281-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,206d723134c5ea4006a7b4da062b55a284665124d414adcf32bf1ad538c50899
+audio9/airport-london-6-297-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7793d84a9ffce83310d2d91da82803b8774bbc0cb2a81ba3166e2d57732b6112
+audio9/airport-london-6-302-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f345f1502851758e01c8cfabaa7f07d917c5e4d13bdf01c2978d38ae413ca215
+audio9/airport-london-6-304-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a76f615bf9d89b005f8aa7e0f6c154e4292dcb780b8ec742d60cd6ceab6b07e5
+audio9/airport-lyon-169-4100-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3717d4fbb030bf10845077b683d2e469f4f9185fd8fa4132be3661adc95929d0
+audio9/airport-lyon-169-4283-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,531844068fd87ce7e7d9a1f10da27a63c6e84c60ed653efa445db197d03b9e5a
+audio9/airport-lyon-169-4314-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,401f2881f7aab2d1eecb15008b0201f18aed0f1ddd4561c66fa70ff35cc12133
+audio9/airport-lyon-169-4486-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6253af89c0815baaf04c5061f59b0074ef627bf9e17fec4d1ccf3fde8857a666
+audio9/airport-lyon-169-4497-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,fe3ffd763d4eb4dc85bd0e0b5c3b39a359e73eea75bba414e7fd605d0357110b
+audio9/airport-lyon-169-4981-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9cd9b7b01534fe52457ca3ca0ddc3ea84160e50f4e0c496769f7007b85b3a493
+audio9/airport-lyon-169-5068-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8f73e49ef3430abfbe62ab053bc4f4dcfddc04708da0d977bee7576992075a54
+audio9/airport-lyon-169-5263-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,583af52c6bd460e8fe86f9ffaeadc1773aba8be4dba0d75d48f16f6fdee70e1f
+audio9/airport-lyon-169-5498-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f6dd690d49fba486eccfd71de683b248bdd3065e7783e644de281a3ff86d91fc
+audio9/airport-milan-172-4126-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5eaaf16e867229e161c8e36d1f2d1dc73ab1cf9ca2ac9dea50540d0f1fb7f079
+audio9/airport-milan-172-4524-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,54dbebd0f99e71e918111d9a5e772c449b3de63ff093c62a0fbefd741eecf6c7
+audio9/airport-milan-172-4567-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,313b96c6e4d27af92dac51cb50b58802c52e6ec25fb7561b7e061fff2a89b36a
+audio9/airport-milan-172-4624-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,555a6d4ec0885e4ad061a126b749a26963a2526f64ba9f7095ff196d7fc581c3
+audio9/airport-milan-172-4762-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6528702d41710db97427523477e1a2b10971654fbe3bd2e25598157d1d12c62f
+audio9/airport-milan-172-5214-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a042b11b6b704c51b2ade8cd6a7c7e1df8a126fc98a5d54147308919306e721b
+audio9/airport-milan-172-5320-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6fed6cdaeeaff430ff1b57377e2373f68bb575eeb9f2072b1640d1b602e12efd
+audio9/airport-milan-172-5327-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1af1ea20e3852796498b3299727988af2de4ff68f94c793fcd34cda3d85f087d
+audio9/airport-milan-172-5490-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,84cc8d939d2641dc1d4e2e66d42c2978c3ddcd7eb99e76803796b39aa4867d0c
+audio9/airport-paris-206-6246-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d5b63d95802f9b10fc5e204c2e0f5723e32cbc230bbdd9e02e10bd46e690e04d
+audio9/airport-paris-206-6257-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b06b06dae9ee707560384dbb5c1f219319bbb3a8e46da46297bbe2d4f45cb157
+audio9/airport-paris-206-6263-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,cdb6e03dfceb6c957da4bb17d280efdd2138c2e68b965772b56c9a9e58118db2
+audio9/airport-paris-206-6276-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9e26546f37fddac7d4da18a40fcfa033ef3db96898eb0707ff38513e65e267ba
+audio9/airport-paris-7-310-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,28b500f395bd0a22a2590736c77d6d626fce966ded2d66c18fc082204fa58114
+audio9/airport-paris-7-326-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,15da0f0a69e1431d4c33196c0c01fe73f11373f00029ab1d1387079ddcf10e25
+audio9/airport-paris-7-328-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,aede9e84b62ecff6d8161f291d0679b4920c8e5cffeb32ba8922d125e52031f8
+audio9/airport-paris-7-347-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1c197eaa90aa8d5299a4e2fb79790a928f04ca81cf0b26bddf790e9382380eac
+audio9/airport-paris-7-350-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,86c71df8d5ff1c1e02081fc41c254e5884f87af590ce05d5a2df5b8832c31e9f
+audio9/airport-paris-8-365-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b0ed0cf721a45ac08a99be73f3427e1710d5574535312d9336510c527a7249d8
+audio9/airport-paris-9-376-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c6493ecafee8900da4aec47827e47966fc955b4c4eda83fcecaa7661f017f084
+audio9/airport-paris-9-379-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f5a1a5ddcbcb4220f141e1763b127611313386ba4610b65b14257afb33be4140
+audio9/airport-paris-9-396-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,eadd968d8da3a3131adeff7d53d65a149d4fa81b5daaf5f124614b401336353c
+audio9/airport-paris-9-399-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0bdd7a1b89b23500c841910add2a4ff9c89cf32980c69b3f1c71ead0f6b90ba3
+audio9/airport-paris-9-400-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,dbda8d48492935126788849f44df1a8a2d9911b98e17abcdabb9b962b44925e1
+audio9/airport-prague-173-4104-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,73d5a4c7dcc7106628baeb85065bac4eb10446dc3d27eb9fedeb73de0b25e85e
+audio9/airport-prague-173-4425-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,81999b7fc8258eab60e3fa15e365043cb2fc55abcd788053f757ea09ae4e97bd
+audio9/airport-prague-173-4592-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,fc5f556fce5410a805fd907aa5a97ea0b728412b2f54ade602d64a787106fcc2
+audio9/airport-prague-173-4997-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f886b1980555e8ed15b0e778595cd10d85228a1e4b3774480cbbaeeccf9285d0
+audio9/airport-prague-173-5742-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5f5de47b364701b4c37000bbe5979f9a96d79ada16be84e28697d7a888be5ab9
+audio9/airport-prague-195-4169-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2560e3c1164f463c70a0e4ccd85dc90929450b6cce6e5fdc89127b37247803df
+audio9/airport-prague-195-5597-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2a910f7015a1933e3946a2def8fa77e043980165036a7ee90f23e6404a1554ea
+audio9/airport-prague-195-5657-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3f1f9087eddbea811bad4faceae0247ae2ddd0795b8dfa6e170f98ce76d6edb4
+audio9/airport-prague-195-5704-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1454b12bd627fdc9514112a4aacabb341f1d27adfdf4c7db54324723de3cbf56
+audio9/airport-stockholm-10-423-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1faeb71bb3a460c6c949190dc5f187963f2e07660d445ce25e22c6aa7fc6583c
+audio9/airport-stockholm-10-428-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,99e3f09644bcdaa067fbdb6fcf4c92f2b129b24b9b74028e5476304612eebf91
+audio9/airport-stockholm-10-432-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d24fce90a5bf283a074242dc9b3e9befe36bdcaca7dbcaf63371a7191a1b88f0
+audio9/airport-stockholm-10-435-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b5c57e3d1771bd5c79727f3e2489aad0ec17a2f5ec240a2373cd4f7204586a97
+audio9/airport-stockholm-11-454-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8d4b4ba433fca880762363f56da9db236968c2bbad84738a362589b056c6bcf7
+audio9/airport-stockholm-11-459-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e0c736cbdba88d7b85169ec919081e0ffd3b628888550f2200c59bd33e02f908
+audio9/airport-stockholm-12-484-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,03d82e99ff0b331c724e7ec385fb4b57c2a6bea4ab12ba4a3b88436e95f43a68
+audio9/airport-stockholm-12-493-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,737030b2294ee240c2cceb16041fb8db0694c2b64bdc2ba42e49cfad34191327
+audio9/airport-stockholm-12-498-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2bfdb3e4926906ef6ff27a2527404aae75843cf1608b8b2f1d80f4c6cb06b580
+audio9/airport-stockholm-12-499-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c7ef3d62d059b725b4f2e3fb053fde56077e1fe1775fbb614270482a807b3780
+audio9/airport-stockholm-12-508-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c697d7cec14401af7f919378b341ea036b5b1ef3b2e3f72a87c563ae65fc5093
+audio9/airport-stockholm-208-6321-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d1ff16b8190df6bf6b7a28d1578e9bcdf40a013c5a89c0bbd0435ebd73fef105
+audio9/airport-stockholm-208-6338-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e5aadd3af952a0f32d6d05533d3e5c78ce16cb3efda3f3360593dd895638f9d8
+audio9/airport-stockholm-208-6341-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0d4bddd347850d0c7ee45b380acb6a36a2847af801f2ff8d03f5b79855641119
+audio9/bus-stockholm-35-1041-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,aa5052a2b98710e76c8759520d3a612740a717d0954f12b08e306ecc4449a311
+audio9/bus-stockholm-35-1043-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,758503fcf833ed78316ad6e3972f5fc16f237313d237d27333346e46ef4e2f06
+audio9/bus-stockholm-35-1063-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,33593495668847d7bec037c3464597e3ca6154c196975a8db830bd378a5ac25e
+audio9/bus-stockholm-36-1066-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2da1c346d4e6f0d211711db2ebb67933c23c9c16f75eb097efbf95a800e52059
+audio9/bus-stockholm-36-1067-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b4e7a09ef3a4c4aead0cbbf5e166d1276151c982d44c78d9a3412bb9267ddaf9
+audio9/bus-stockholm-36-1072-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9ce6041da9160626d7de7d48b227b18d1126f7d12a66c8debe2f05c6db215be9
+audio9/bus-stockholm-36-1073-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e06eec9238583bba9cb65ece4861a6f72e4d47d6e33e5692d85f6ec3d94d9423
+audio9/bus-stockholm-36-1083-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8d416e049b209c391cc236db21ccd5eadd085ee8b4744a6f91f90b8fbfe70847
+audio9/bus-stockholm-36-1088-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,929584ed462fb3f523893114f9fef81ed15294802f137934dac7337a47c92539
+audio9/bus-vienna-219-6610-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,16a992da4bb814d70f87d29f8fef803cba680be9453ab65951e316aafd39e343
+audio9/bus-vienna-219-6617-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,06173f9c66cd871fe6c753853bf39cbdb471adada17963f32ad1ec0924e3cc89
+audio9/bus-vienna-219-6620-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d3b0ef6e9322aa37daca337314bbcf90517ab7de9aeea50ad41bbac74c1ce94a
+audio9/bus-vienna-38-1118-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,725fb257d4766372f21c056e76067fccf4b8a2e4511c6347b1a70de5ef744877
+audio9/bus-vienna-39-1149-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5bbae6748935e6af7c02b37690d62d85648fc6b853c352fce4061d57f193b5f3
+audio9/bus-vienna-39-1150-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,66b82a2115f896abd191c30eb59305555fab17afb4e859123d2ae471d8fc4cc3
+audio9/bus-vienna-39-1155-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,70d3306600b154c8882c7010e16e8ec94ad6fdd3694931450f2560066c846056
+audio9/bus-vienna-39-1170-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b0e4bc0fd951ef474474a8f05076664ea76c391343e721b5f91aa522929004f5
+audio9/bus-vienna-40-1185-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c28353764ba64db5f13bde2a5dbabb84203f93c6694cac7c15acd16f40aee47b
+audio9/bus-vienna-40-1186-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a4b086f37ae2163364d381a1b3c49eeedb86d01578831a3f630aa69de1d2800f
+audio9/bus-vienna-40-1208-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6bd5500ae42f32cb8f3a234e6e0677d3355e967a8665297a2f602fb4e769e595
+audio9/bus-vienna-40-1214-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,53d00eaef0d7023bc2565319a5623256491451eb4886450182db69dcf0902f9a
+audio9/metro-barcelona-220-6659-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b95d9c428945fd07cd6c1bf29d12941ada50c202d7e742a6212ff4f2e9bfe019
+audio9/metro-barcelona-220-6662-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,270f5278b82358c4f1df02b01b8962a7274ebe404faa1c6ddae5ed4d3a1ed19a
+audio9/metro-barcelona-220-6668-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,37b4a639442a68f5fda92fb569e1637c2f8617a3f8b8651e209d5ba3e96150bc
+audio9/metro-barcelona-41-1227-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1951de1775c1ab66ff159ffef46090e5073ec33be61449ca736ee8f2dd44d7d7
+audio9/metro-barcelona-41-1229-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d3bbfa6f45c900e87683f4f8a2753a921a1d3e8dac886c1045621df6056e29b3
+audio9/metro-barcelona-41-1235-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d322b5513ddbb6f0c8db2f8e28a8599d552c23098c61a3bab962d6bbd5da931b
+audio9/metro-barcelona-41-1240-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,90d5c967a0a7e436e8129a462db1b19117de23da84af3f6268225984c065efd4
+audio9/metro-barcelona-41-1247-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c468a724e74428a58fcba4ae09ddbf2c22d6c34b92333778e3001133794c1f5d
+audio9/metro-barcelona-41-1252-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,dfa1a66fe94cf0d59aaa998c3752f497e81677f4200ef9507036d6608b533200
+audio9/metro-barcelona-41-1263-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3b6a2e7e5582ed7fa854cac521a59a2e201bffff17959f70977591c6add506b8
+audio9/metro-barcelona-41-1264-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,818fd11c18a850db590580f5633a73149a3f23acecb4983fe3996318a3a9e5b0
+audio9/metro-barcelona-41-1266-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e2888cbbdf2fd37158bb1adc955527c273b7e87141973aef879d2174093f6b16
+audio9/metro-helsinki-222-6744-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6c629b69512834568a91afaa35b5ac2ba3b8e608001a7e51c03a38f3df91e17d
+audio9/metro-helsinki-222-6748-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f19629ae39a69b99f46078bb6abb1e908c86ef434df831f3d5e893d826035c88
+audio9/metro-helsinki-222-6766-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a4a5bc33b28d51c8d2960d771fe4c208450b20fa245e9ec013a453eebe8f9f2e
+audio9/metro-helsinki-45-1332-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,270137541e7276b37cf895e40fc6b4f9906cecec1037597c522f0512ebf92323
+audio9/metro-helsinki-45-1336-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4fd0366ac560d6e08142b1e135406a1962224019d39ca249f91dc6c72681dd55
+audio9/metro-helsinki-45-1337-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9a544bc47883d2693ec4dad7a0abe9a9731795094ef14ed56ff7ce21b24fd8ef
+audio9/metro-helsinki-45-1339-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8283eefbbdd6a8578921771104e53c603d6d7aa3e8630d184d7b749d29d75640
+audio9/metro-helsinki-45-1344-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,df4e07c13b3cacd44adfaee55d9de8a197ea3c865dcd55147121a709e51fcdd4
+audio9/metro-helsinki-45-1354-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6c1a6579974fe3ce4b2222ea2fe6409b6cd9ff591a4fa7aadb750db18aaa3756
+audio9/metro-helsinki-45-1355-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,cd1089bfbd7f0945666d5972bfebe6367a39f8c775bcfb66d89d5fef6e734d59
+audio9/metro-helsinki-45-1358-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,777cd1a7e3590f2091ba1255fd5ff19585984198989ae6d1cf43c8120259a64e
+audio9/metro-helsinki-45-1363-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,133948b219305bb40b3d0ed4a764e8dce5ce4f0545eee675d58e2604c0212fca
+audio9/metro-lisbon-199-4150-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,50c0458a5b030f65d37f0fad1791b5d0a14c4a5f18928c0e55ace5a45a9b7452
+audio9/metro-lisbon-199-5154-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f90863c64476ed0dd724db730c748936a1323116f2f5fa14d69a4fe92f76e5be
+audio9/metro-lisbon-199-5240-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,55d934e7dedda76cb28dd02a0f1b656fd50e61dd0217e7e95e86238bdf5336ef
+audio9/metro-lisbon-199-5634-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b2fdf78cbd4ca90dd88b55b65ff85f4e24c432950646ce2fa2f78af71676c086
+audio9/metro-lisbon-217-4266-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,766021d432fbda047c53456e7acbfe6327ef00b6b92e4bd14f71353462ec9126
+audio9/metro-lisbon-217-4679-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4f1455e599dab998bacdd665f6a313452d641e7bbcc9c0759f48d5c20d255ddd
+audio9/metro-lisbon-217-5062-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,fd201777f24fbe9f8c4e9fe4405aabdc168416a80eb931117ecb39bfb7e09a62
+audio9/metro-lisbon-224-4455-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5cc769c2a769c9e920b7bcf4feafacf80a932ba3045a8636dab881442c5f70df
+audio9/metro-lisbon-224-5162-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8febfd86eb16e61f986e378ec5d344ad98882c3f6652f9957dcc0f5ddec62824
+audio9/metro-london-223-6771-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f1fe4a1931207e51b964d479bf794ff76b0b19ee15932ecfe7230f0033d1dd55
+audio9/metro-london-223-6774-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d6dec334ba34d5044cad69806b858d86f743b747d060b174d4ca6cb19c06b389
+audio9/metro-london-223-6775-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b981977d1b34ac250295bd028b0ed80cd87e3b3a37577d84d9b7589d2f3e65e6
+audio9/metro-london-46-1377-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b9b478ec3cb38c22eba193a9bd5c51898e9401fc21e893ff5af136a31ab59b05
+audio9/metro-london-46-1397-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,95b2cf244728dc33cfec843207ba24bb27ea1d79301938c3ed98ce60cc6b8274
+audio9/metro-london-46-1401-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,de0d0b692bb967748512b8eb44f3c1bd3071290291f142cd26d94397bc2e5465
+audio9/metro-london-46-1402-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,634b4d8894133c12c08c5342097bdcf205339e8239919917791125db211d7ade
+audio9/metro-london-46-1403-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b0d3f3c724d61acf52e1fee4dafbb1773e45ac131468dde56d368278fa4f5b97
+audio9/metro-london-47-1428-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a33f489dca67f512288a36bfdb5ba9de92932a5cccc0b766cf8d72af47f4dacd
+audio9/metro-london-47-1435-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9a6654e270d1661dc017b287f9b27f7c92b0f42f188a03611c8ff1cb67c9cbe1
+audio9/metro-london-48-1450-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9b5a833c599ccd90ac1a26e6e8de93ae68faeb7e2e84f623a41fd8ef4c647f4c
+audio9/metro-london-48-1468-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f77becae733ccfec75cedad67f7499bc2663d0748bd8ba83d92759770e25a513
+audio9/metro-lyon-181-4146-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a06e65e2d9ce523dedb22e7952a2bdf2bc1df274c83801da932d7067f5dde150
+audio9/metro-lyon-181-4168-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6517ae30805812443ae4635463cc74cca4c2ace97d2ff37b7294920b29d039a9
+audio9/metro-lyon-181-4952-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,eefcec68493dde5a2d9073f6dbffd8cadf9e12af16f6067493289dbb0065aa62
+audio9/metro-lyon-201-4196-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a2c214f4f911cbf23e85612d12d6d5a4cf13d851eb3988916c364c98c9dd6883
+audio9/metro-lyon-201-5023-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7d64a49f46fb579d73d002caee1f8a5402fbd87273f11f0bd574ef040302ec19
+audio9/metro-lyon-201-5360-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0edbc7148e25bafe84a1f67650e501cad04498b7344a619d07a975b63062c5be
+audio9/metro-lyon-206-4172-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5a632c5b9e6783e77e3ac9827d000c85625c87e8a0ba2fece1a7782d601f66a4
+audio9/metro-lyon-206-4814-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2bb4902705eefbf1f7cae1020f99305a6fc03d2b69bf4c32bb6b3f43445506c7
+audio9/metro-lyon-206-5148-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8300cecd1557bf28b0670fddeff921354c1a40efb0561dcced437c5ea2a77dbe
+audio9/metro-milan-197-4231-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,927a4192536f225542647117acf9f0a6969a3043fed6cd30c277edbd083ace3b
+audio9/metro-milan-197-4875-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3eba2b0478fd155642fa7fddcd58814eb1ca7efc9041d9c9df5c8db839ff7b81
+audio9/metro-milan-197-5069-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,798c880c0c12c7196fa63a7232625ccb75c7cce3d3ee9c06eb44dfa3f878ff3b
+audio9/metro-milan-197-5231-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,35632687770cab073688742b6899754bdfa75bff41f3ba27596307c3766e0cf0
+audio9/metro-milan-197-5646-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4c493749528fdb677eb2e99dfb67ddb643b9aa7a66d03292b9699c7e61cea266
+audio9/metro-milan-218-4535-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4dc82e35c9bd46b5acd3b2cb779f2dc0ca5e416dac8cab4a87bfb2f3f2be49c0
+audio9/metro-milan-218-4758-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,eeceb73e3ea13d160fc5a67b3c016ce9dcbab960ce0ed434057724d000859543
+audio9/metro-milan-218-4775-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9f3e880463ba38913a193f58a6b75f4e57b24a280fc4a0efbf21f72e6f06eb63
+audio9/metro-milan-218-5027-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5a456da1dca4ea03102bd03943cb4aa2e1d164d35825e4debde2d4058c605813
+audio9/metro-paris-224-6784-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8ca794a3c15bedc2aa58b1bcfbfed76da6aeef7d193f30a74b0af0b28c971c5a
+audio9/metro-paris-224-6785-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3ad7e25f60b80b8f74a601d0245d63ea865705cccd8b61660fec5b8585763bf6
+audio9/metro-paris-224-6792-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0620e18d615acf699f7d00f26f1f61ca872a0b61e579d3f69c14d4c7c4be1917
+audio9/metro-paris-50-1524-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,da89e4129f83d73c648b7b4a9bff36fb594b191b5dc61371991725994af7f2a7
+audio9/metro-paris-52-1548-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3d2818c6fa2a73ea9113776f0562e10d029f6e92e7efafadcdc5079536e23249
+audio9/metro-paris-52-1549-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,67f763bd4908b3c0e511dfa91ef994dee986554455971826e1f5c0e9c6af71da
+audio9/metro-paris-52-1553-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3edd6445116510d4ecae5ab2c2e5ce9ba17a23b3143d0fe6ea633154f31f0c51
+audio9/metro-paris-54-1568-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,84b58b06225c23a0a73023d4bba7abf59f48f4467c1a5b8ccc82d0b8f7a10024
+audio9/metro-paris-54-1576-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2e9814df92d94aadef611392d7d8e0f24ed7da91839cec3a01c91fa1d9c1c3d0
+audio9/metro-paris-54-1587-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1ad4090f21362e24448b9fc3558d030cb54e41569cd29509712b2a1ffd617e45
+audio9/metro-paris-54-1595-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,24d456659bb5cc7a50872d19d69da466d2c9aef765818e1df2b99d90c8b6ef93
+audio9/metro-paris-54-1598-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f6bd7b96299ffe8b23e34bd66f1e58d08a54ac031bf3d303af1427c2a5b66a08
+audio9/metro-prague-163-4094-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b7ccbb2b8af7e2fece9266ba9aed91af7bda5f41eb84cbd7c4f0cb758510eee1
+audio9/metro-prague-163-4292-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,851ab5434d576b632ac49fb9ff614cfd0d9980c9337e21131964a07b3e5f506c
+audio9/metro-prague-204-4777-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d20c45997a6159cd48383fbe9053967d38bfb2f9e868ee4dd9ef7667eb8322e3
+audio9/street_pedestrian-london-149-4500-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,42ce95e42426e18ae1f25174147bfa799644a3064dcad7072b744239cef134af
+audio9/street_pedestrian-london-149-4521-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e35b752fb85614bb93032e7b4b7e6a74d114a1635458ef5d20ca417adcb7f09e
+audio9/street_pedestrian-london-149-4528-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,efebb39b916ed8bff0d15913ef5ffc45b825e0106c5bf99ace6352cc910708e6
+audio9/street_pedestrian-london-150-4542-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,df7e57aa87931c422bb6c7a8fc0ae4c644ed30799eda62edd49ad97605788636
+audio9/street_pedestrian-london-151-4579-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b8a60ad911fc92bfefa3b98df73a96bbbce8003da1f84a4766b531ab4152e049
+audio9/street_pedestrian-london-151-4594-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,960205172ed4fbd7397a52dfec6d49815cfbddabe697141283eac83c25998e12
+audio9/street_pedestrian-london-151-4602-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,60ebf47a1dc71a6ae59c48ac873b9b482827a6d12215753dd88aa8647efca156
+audio9/street_pedestrian-london-151-4603-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ec942249be23cd89f275353fda0ef285c4db32c9d8ab115942929baddbdb7a19
+audio9/street_pedestrian-london-151-4604-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e38950730087560baf2bfd163fd82d22de6bd30dbefd341f144c41ce9af183c0
+audio9/street_pedestrian-london-263-7964-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e43ae858359412716fc7c91a871005421f2b7c573c207bd5982668b5c44583aa
+audio9/street_pedestrian-london-263-7975-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5e4e54f33a57216e6e74c859567decc0a05a3de0632b99e03fc8a0f0c2e02804
+audio9/street_pedestrian-london-263-7987-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f1a1f944540b6d48f3b0874ed03193f1e489dc25828187605ec5b427e2393f23
+audio9/street_pedestrian-lyon-162-4093-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,10b69b460f707309157321c07404d18111b16cc55d24fc9c5bf35d3c898a4fa6
+audio9/street_pedestrian-lyon-162-4378-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,cc80b7fab790f7eab8ed1b345cfe87ad83582b013879d5a324f08fcf274493e1
+audio9/street_pedestrian-lyon-162-4707-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,8cb3252e43722b67a3a7a789226f8d0e4eea382c18e6a80949297212b977e716
+audio9/street_pedestrian-lyon-162-4717-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3633c3536966aa190f223be43a4bee32ee589621807563f28aac94632e8b4e7d
+audio9/street_pedestrian-lyon-162-4937-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d2878f3d364a0c5391825133f4e19de7e9363eb3f975d31378aa94b7f5ff7233
+audio9/street_pedestrian-lyon-162-5000-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,bf3513aecf35bd7d38a5cbd9ba88999045a5b55f617997664ec5b38937739bac
+audio9/street_pedestrian-lyon-162-5083-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,26a36d6d46067c1a34ac9d9fbd806a966291d2eb50bbdef888732d274a79464a
+audio9/street_pedestrian-lyon-162-5402-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,dcad41abf914ba68588b0afb5ad1a8c4bb06120bd361a50946f6e186d37dbe12
+audio9/street_pedestrian-lyon-162-5671-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b272fd9cd63f92c8d6485717b121b80807cc0a01974f118904d71d46592bbf7f
+audio9/street_pedestrian-milan-165-4096-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e9fbfa373596c2d4298b86553d56cc2c5219cc5290ff7d05b70dff72c1320de8
+audio9/street_pedestrian-milan-165-4805-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,87e5c38ab42e1ad11449ab9feaf531c8133c38cb4e8d064713a1c4a31ec79ce8
+audio9/street_pedestrian-milan-165-4841-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f27ad2cc945d7ff6d50dd9e0f149a0ead40926d13808001d3a30e83ca534df79
+audio9/street_pedestrian-milan-205-4244-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,129961e57d50d2d0d375609168f5e0cf6a987a87af4c586895fa3f11d9b94312
+audio9/street_pedestrian-milan-205-4546-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e5c2a9f361217817b035e541d610204846abd14fa74ec74306ada3f249a4d182
+audio9/street_pedestrian-milan-205-4726-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d1c032ef0b8aa63567d8c3ea6a82552c193f5884fc56e5e89a4412651b0d3894
+audio9/street_pedestrian-milan-205-5325-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f07d777145c689da6d3986be6b6d58228f67b67d087d15394eb86565c2cd05c9
+audio9/street_pedestrian-milan-205-5556-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,bac4008524fa16e2780b5a060b5ad3705e275dd399d2739e7f250e35408f5c7b
+audio9/street_pedestrian-milan-205-5565-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,3ac6fa9813a2cee82584c308907d8cb5a9358b8519d16e16623f10bab172ff48
+audio9/street_pedestrian-paris-152-4606-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2c3515858439ce61b9cf997335baa93327d529449d359a55c143f61e7e9460fd
+audio9/street_pedestrian-paris-152-4608-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0858880418e3800027dabdd4185644dfc92d2f5f700a664042aaa7f20c8644d2
+audio9/street_pedestrian-paris-152-4616-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,923c6a916e621fb4dab60a0eef2978ad3fdbe300b9d895e6f5868420942407f4
+audio9/street_pedestrian-paris-153-4627-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,340ad7dba995da7b978c2dd534adff8daf4a1da0460b83e1708f1c9b7a2f4a13
+audio9/street_pedestrian-paris-153-4639-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0f3a71f25dba7829860d80d1495df8ea6a0d07fd91b93fd2fac97719e7b6d84a
+audio9/street_pedestrian-paris-153-4643-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6c8ac132446d375dc66945954506fa769f6edd4a416ce132a8f283c9b33ce825
+audio9/street_pedestrian-paris-154-4659-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,674fc48ea453e1129b7d19e9eb1798a4f343221accf2c2e5af67f055bf6549c7
+audio9/street_pedestrian-paris-154-4664-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,592a1bcaa7f1202bda8feeacd3e0137d53b38885c1a9e5934020fe2641fec9bd
+audio9/street_pedestrian-paris-154-4672-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1c2bb7fec2582ad9955cf77d1b16798a8cd4bbc393cfd2c745499f628bc9b9ae
+audio9/street_pedestrian-paris-264-8001-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,43e6231c819377afc14737f36f94e2479e46234cbc6b62e36454032e2401b6e4
+audio9/street_pedestrian-paris-265-8043-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,cd36084d4edd101eb771b98b26a39339b1dd80e19c8393a865deac2ce5ca62c2
+audio9/street_pedestrian-paris-265-8056-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2247e4435c9ceb051828f57639cf743a94cb8129842708e719b486207d1c2dc6
+audio9/street_pedestrian-prague-203-4164-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,33a27fa6cd98db92d06a6f2569a96af4f349cdd62be37e145f70cceb902bfb34
+audio9/street_pedestrian-prague-203-5186-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,63901df7865456fa30668155097ba4a3a4073375e9eb824f49438254e1e7add3
+audio9/street_pedestrian-prague-203-5268-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,794b8ef5d93bb5407d4621ecfab21395e354cbb266e4c626d6eb635a7a685c1d
+audio9/street_pedestrian-prague-203-5682-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5abcd8dc8591fcfcc8d755f6f5267aa268ff78682d728af3f3719ace0b33628e
+audio9/street_pedestrian-prague-203-5723-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1003e1fa0cfdaa4646e18fcee7ed40e1fd1c82f6555b62add185c5c303760976
+audio9/street_pedestrian-prague-203-5726-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1294ba22ea2fa3a1f1594a0b942684a01957fbd7692f21acfae6750016067f82
+audio9/street_pedestrian-prague-227-4653-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b216911a09acb9bad6e1d6304015d3c6a00725844d3e43acb22bc31f8d5cf77e
+audio9/street_pedestrian-prague-227-5094-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,48fedc27c7f17955426e1dea9e71eb02d372b7b3042045ea624e70ce45ee95e9
+audio9/street_pedestrian-prague-227-5101-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,10f06a8b96003cc5f39dcf90509f8de2a6d74a18caf9f1643af442daf2371afe
+audio9/street_pedestrian-stockholm-155-4679-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,dec65ce4e8d2b299b699fa7f17493e4932027b7b381a9798293ac9b17beab63f
+audio9/street_pedestrian-stockholm-155-4684-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9fcf9f46a22e6649d999c181c27729315cd77fad911d8edd4042fa4b57f776df
+audio9/street_pedestrian-stockholm-155-4699-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,40b8a795ece2ddee7b490d8b76789d5b629fceaac84b16aefc7d4d7b01d0a691
+audio9/street_pedestrian-stockholm-155-4703-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ae859470f02bd8eff6a246b29d5ad5847161983b7ae0768f43680a25b9cdb4ff
+audio9/street_pedestrian-stockholm-156-4716-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,70567ca10395dfed33f1a775de12e37b11b78293368c56092fdc47ca5399b342
+audio9/street_pedestrian-stockholm-156-4717-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,58ee09738079de9fc3ada2f929f0e15a1416afea60ee35b6451a42ab277fa3de
+audio9/street_pedestrian-stockholm-156-4744-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5ef149f405af0fcf74f7b0708d10f17e676f3ee05d02a84af63fae0d9f47fa9a
+audio9/street_pedestrian-stockholm-156-4751-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ecdcfbd38602f47205d0506e62a1d80dc2e9eb1b21ca5502b0a2a97e6b0a5132
+audio9/street_pedestrian-stockholm-157-4755-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,18f67ae712e90fb16325f5bbff41859c26028a62c9a6b255efdc1a2419a0017d
+audio9/street_pedestrian-stockholm-266-8087-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5c2c76a1dbbcd7ba8c0887f391de5caf96439fba9d455489c093571e142ebb02
+audio9/street_pedestrian-stockholm-266-8093-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,606f1b7de7d29821cbab0620daa6437e27368bc6ca7b2291dec6bc045be62dfb
+audio9/street_pedestrian-stockholm-266-8095-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,34eeb6da4fac54a89ba12e737fe0ffd537b033a27b050419e74a01fb5c9c19b2
+audio9/street_pedestrian-vienna-158-4795-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,62cb722f81d4b11a9deef8ed9c6f9e97e82920f09da11c1fabbef5c45a69ac8b
+audio9/street_pedestrian-vienna-158-4797-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e9b2fd2d3631751b71cbfd79f64e48b9e059fc6177c86a0f942399f603ec3b06
+audio9/street_pedestrian-vienna-158-4812-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,6c322020bb70a813fedfdb6fa041b56ebbb2041ac69a7dd4c2f183186ec96c07
+audio9/street_pedestrian-vienna-159-4839-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2a46f1117789f357d7b0247f788b6bfeb862e2dc96ab1d06d7a52dc9e7797c80
+audio9/street_pedestrian-vienna-159-4863-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,06044702ebd4ee5d059abd31bcdde27288062b9581e61099f1e2975dd20360c9
+audio9/street_pedestrian-vienna-160-4864-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,39d534d47d55dae3704c7c9c42061c856cd7f85392b97d5fe67c99fff06e20ca
+audio9/street_pedestrian-vienna-160-4869-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,fc095f792c74035841c2a7a172f32b70aa52fbe491344f37e08fe7a57bbe6cd7
+audio9/street_pedestrian-vienna-160-4876-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c6f4388abb994ba7e7d9b4672ac85a93148073792cac87ef163c4692ea6ed536
+audio9/street_pedestrian-vienna-160-4893-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f80233c23d51157c01439ada262ca24d1a0d4916b782bac894dadfcb850ba2f2
+audio9/street_pedestrian-vienna-267-8113-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,439cf8d5492c97f8beaec11036c625004b91225026e0ad4ee60c52189ca41acd
+audio9/street_pedestrian-vienna-267-8123-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a320d0b0cf2275b47199dc906b4221d9d21d3f9f19dee701a64addd754f0ea8d
+audio9/street_pedestrian-vienna-267-8131-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4133a8f93c43fd5ffac12be4ee2943845c1e426e17ecbdad4ddce650a9a72292
+audio9/street_traffic-barcelona-161-4903-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,455b73cecf857300911f6a1620d5b0b5f0bd6492b0495ca03ef98f8cda2aeb56
+audio9/street_traffic-barcelona-161-4908-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,f265fafb429c2b33d47c27873a8a8f3baff9dd7897ddc58979ba9f002c9ad8a0
+audio9/street_traffic-barcelona-161-4910-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d20f141ae9a9df63ec8e3d0dec0b44a1bc2db880bb3c94ee3c8f43a4ffd1c172
+audio9/street_traffic-barcelona-161-4916-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,7deb78087b6d3f16d3811e0dab932f5a3ec74735228446def5607336dcfac384
+audio9/street_traffic-barcelona-161-4917-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b42085318ce3b50139e7da62e73a4ef0f6ef416bed59eb6daa59d7f542d11530
+audio9/street_traffic-barcelona-162-4946-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9ebf97205e0c17a89a88b52acd1b7fa8611cbab555c4a0d658f3944fa407d85a
+audio9/street_traffic-barcelona-162-4958-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,67375fb59792cb617900a67d1ee3d09d8f6d2040e3f379c1871dc1f8bbcd5438
+audio9/street_traffic-barcelona-162-4962-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1b29d1fbba171fcab888bba4918f5c6e3eef3cf56552ee8e9ff8582c9db1ed19
+audio9/street_traffic-barcelona-163-4974-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,c7bdaf588a07885b2d4873f45325c716acd070268ff33013bcff815776b92eba
+audio9/street_traffic-barcelona-268-8139-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2407722593b5054b5244fe6cf415c0d3a8938d98b0edcc4b63fd10c5599c756d
+audio9/street_traffic-barcelona-268-8156-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,89b05aecfaff2fe323937716cf3adfd73f32cd25b35f90c9c5fd200ff971b483
+audio9/street_traffic-barcelona-268-8159-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b4f2292f71a0850b6dd23b282a6839e5583c961e63ebca74d278f933ce926514
+audio9/street_traffic-helsinki-164-5017-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,2017f7fd786b1b9eca239e5ec52aeea38ffd4a9916ec83b2cd4758fdf12fc02d
+audio9/street_traffic-helsinki-164-5031-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9012919ca6b40d9f9359d4422b929cb438a66a8e28e2487b66bf8a397225cafa
+audio9/street_traffic-helsinki-164-5037-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a47276415e6c2fddb69f9596b65dea9e5b3fe78403bf29b8368442948dd362aa
+audio9/street_traffic-helsinki-165-5059-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9b572bec4a5a8e586e81fc3845c06fba4a4bcde27769b50adc3c63bfc1dbc410
+audio9/street_traffic-helsinki-165-5064-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a863598ed2f0ed460b096a1b7f9ee953ee0a6265691c9778b7085bafab75014d
+audio9/street_traffic-helsinki-165-5065-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,0a5e3e0261efcf56a2d8d51b6b1f00ebed96a9fb61334da1aae316bd65f339e0
+audio9/street_traffic-helsinki-165-5077-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a9f08a4ac00884da49d1888d2ac104b213ac5abb1bac2e9e1ef378f2756083ae
+audio9/street_traffic-helsinki-166-5090-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,59fc4137af1ae833c55ad3ffb2368ba3bca4f409c097d4215f5efb802bd7217c
+audio9/street_traffic-helsinki-166-5103-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,a21ad23ef06db055fa37194def418d965beaaa17f7f5719dadfe9c45aeccab43
+audio9/street_traffic-helsinki-269-8169-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4567e8c9b2e716a78e88065264fe18411d9383132888cf8904eca55f7e2af4c7
+audio9/street_traffic-helsinki-269-8173-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,00a473c4b992ea40cc03c61023b42c3f0612a0efbcbad7e58b8e743f0a31251e
+audio9/street_traffic-helsinki-269-8174-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4f01eb4923b85bb2b711319386ac8f9469f0cf600f9aa52d94985eaca5a643b3
+audio9/street_traffic-lisbon-171-4432-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4f34f6bae94e2bdddd46ec8026fe9d27fb99c66e351d25baa62b3344add71b94
+audio9/street_traffic-lisbon-171-4575-c.wav,audio9,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,33fbe31303b461465d8c07c39396b26ba9780c685215343fd0e3f48fa12ca005
+iphone/New Recording - p68.m4a,iphone,In-house recordings,Private use,train,3708687bf18f6654e089f00172c1bcff0e8befb7d0a582bcb50439055f4f78b0
+iphone/New Recording 59.m4a,iphone,In-house recordings,Private use,train,5a5c4bc00efdff2191e4850d35bededa656f5d3bef782d69a30512db95ce7aec
+iphone/New Recording 60.m4a,iphone,In-house recordings,Private use,train,6ba338d9f9730e022c26af5353597bbb149cc79ea750cde4ea9e72ab40e651df
+iphone/New Recording 61.m4a,iphone,In-house recordings,Private use,train,7b1b06cdbd2bdef3bcd86096106370c2c710ffe1702e988cf85b7a187f2ecc53
+iphone/New Recording 62.m4a,iphone,In-house recordings,Private use,train,23a320555bff16f0c8cfa12dc7fa93acef9ccf0be07731ffca47f45deac7f009
+iphone/New Recording 63.m4a,iphone,In-house recordings,Private use,train,2895ac1c073f2b0dc53ef7fc8adad0eb17a367b45a4971dd0757b55f280b0206
+iphone/New Recording 64.m4a,iphone,In-house recordings,Private use,train,14b26b94422615e1c5ba7a24681b7e0939fcbcda7b0ef7fe0a6674b39eb48ae6
+iphone/New Recording 65.m4a,iphone,In-house recordings,Private use,train,4da2ec2da151d647f813238deb2cd289edc89df868a68a646e14ca2b2b772ffb
+iphone/New Recording 66.m4a,iphone,In-house recordings,Private use,train,9295d3e658dae89b3af26fce26ae332fed228fcfe08280689f9cef3c49252a93
+iphone/New Recording 67.m4a,iphone,In-house recordings,Private use,train,db6263b9ce740bcc7d53e81ca04bcd0394711aa45ccf7702282476745860b322
+iphone/New Recording 68.m4a,iphone,In-house recordings,Private use,train,d6b7da4a4a3f92dcde550d828af95b112bc615137597f7c0886c4f29d80dda0b
+iphone/New Recording 69.m4a,iphone,In-house recordings,Private use,train,1004c74b566ab4147ad3f1fc3dbeddef254df1ad1323210c623b3105bd760266
+iphone/New Recording 70.m4a,iphone,In-house recordings,Private use,train,9582e6742b6cab5c16478309bc71c9b76b06c1971755134cd5dfa1547db619a1
+iphone/New Recording 71.m4a,iphone,In-house recordings,Private use,train,0c5c1664b9a14828e7ff40dd8791feaba478a45b298ae079afacccca1e8b31f5
+iphone/New Recording 72.m4a,iphone,In-house recordings,Private use,train,6dca8b45c2fee19768155319c8759861b8da83b86f99ea54dc68a0cf62096d4c
+iphone/New Recording 73.m4a,iphone,In-house recordings,Private use,train,89f6a812f154ab7172a9f71376f2efb8a190cdcb07f7b8a95e81387780d97822
+iphone/New Recording 74.m4a,iphone,In-house recordings,Private use,train,d05c46407c248fa9f8aaf5db132befb0824f43941ede7ba54f17700bef80f6de
+iphone/New Recording 75.m4a,iphone,In-house recordings,Private use,train,8d0472b22f1593de5358e0c25505a8cab74b538b736c733e9f07d96941aae880
+iphone/New Recording 76.m4a,iphone,In-house recordings,Private use,train,9e7d03379deee1daa21a8f45984115a182f46661b47c159092121c99f43a8593
+iphone/New Recording 77.m4a,iphone,In-house recordings,Private use,train,e63072252dad2f4245f46d54b96730655bf5ed8a080eab5e06a33d0f40609e7b
+iphone/New Recording 78.m4a,iphone,In-house recordings,Private use,train,d197e1d76b636c53f6a8fce7c82b852abf676e71dc7d48665fe89ad5cf31aec0
+iphone/New Recording 79.m4a,iphone,In-house recordings,Private use,train,321bf4e5e71a9895c06c21d1f5bfc5f2cd2594a582d0b984c6555343095033b4
+iphone/New Recording 80.m4a,iphone,In-house recordings,Private use,train,d3d7e2c8b6928abeb6e3ef6b3ec5c3602726d9f42e431d206f7a7cf859695d28
+iphone/New Recording 81.m4a,iphone,In-house recordings,Private use,train,7817d3c0aa52285628bc493f2edcc1d6637c96a71235d333217484d682722616
+iphone/New Recording 82.m4a,iphone,In-house recordings,Private use,train,10ac4c2e6533ff61a6568bc21f6cb66b108d4a5d52b77eadbdac69ea13123823
+iphone/New Recording 83.m4a,iphone,In-house recordings,Private use,train,27b92c4f620b1d248c41db296da8a29b370d980d59fbb2f22634227722f56d02
+iphone/New Recording 84.m4a,iphone,In-house recordings,Private use,train,4db59ce607a0fd7a75e273d7859258878191e723c39bdef2721edd249de9b759
+iphone/New Recording 85.m4a,iphone,In-house recordings,Private use,train,8c5b586ed1139d7acbd99c86b62cf35805f4999fa5dc2d9c145b1067687b9bf3
+iphone/New Recording 86.m4a,iphone,In-house recordings,Private use,train,db5ed171130ba89a1f9205ac60deed3fe12e1ad4bbbb5538184f1ee013b2ff0c
+iphone/clip_01.wav,iphone,In-house recordings,Private use,train,fe9b1dc52cd1eb21550847ba08b2c2ddc79443c378ce88945b55a4de9c3656bf
+iphone/clip_02.wav,iphone,In-house recordings,Private use,train,ae8a91335bca43dff643c942db4aaa535552f718b4ad3b440e7eede8a4f3ed0c
+iphone/clip_03.wav,iphone,In-house recordings,Private use,train,d7047cffcb2e6decc2b99d21c0be6abd1dd0b1fbc0cecaddf01d17079c2fd038
+iphone/clip_04.wav,iphone,In-house recordings,Private use,train,98593e76440bf516306ed1f18af2f5ff2cb35f14bdf750c20feac0e08e79b19b
+iphone/clip_05.wav,iphone,In-house recordings,Private use,train,017691167b2b7e93fe52ce7e643ca76767986c478e4efe4c2a66bbbfaee2c99a
+iphone/clip_06.wav,iphone,In-house recordings,Private use,train,25ab601aea43db34ae993e247f91d005b2f9fea8ba5a4117213b57243b36a813
+iphone/clip_07.wav,iphone,In-house recordings,Private use,train,95c1b6b61c3cda76670d8f4a0e3cce0b75d350975a9753e3da4e62ebe6dbc72c
+iphone/clip_08.wav,iphone,In-house recordings,Private use,train,8c265d38cc92bba256a4fa8a5015495b6c7d66401cf365c42e4ab6bd9391e6d1
+iphone/clip_09.wav,iphone,In-house recordings,Private use,train,6497ed79dbd57fba1f9f645d941c65cf8d63168ad4b8edac5473f245af783907
+iphone/clip_10.wav,iphone,In-house recordings,Private use,train,0c2883ed37cad90c62bf8abc385d2a8bf809cfa57c05ee1c9a028b1395edc711
+iphone/clip_11.wav,iphone,In-house recordings,Private use,train,f8f1a54524f7c05413ef8a4155f2ba8a9c164c11406906495e8365ffba7b9aa0
+iphone/clip_12.wav,iphone,In-house recordings,Private use,train,8d7e4adac8895dde69c46a99004045e1e3f64dc3344d429778daea5ad8b18b42
+iphone/clip_13.wav,iphone,In-house recordings,Private use,train,f346d9b20a8e4a0c063e9e3902e82f463bc5c5659a455bb665d738d34ce1ee45
+iphone/clip_14.wav,iphone,In-house recordings,Private use,train,92dedc9607d070a76c39f2099578ab6dddc18da752ec4c10758e84fc38b49fa7
+iphone/clip_15.wav,iphone,In-house recordings,Private use,train,ef6b457f0509a6694beda82fd45d156e87152a2f48afc727ed6d1534a1f561cb
+iphone/iphone recording 69.m4a,iphone,In-house recordings,Private use,train,92256f94298724c898fd119a44758ed64b37342d9ebc8b6d72ea3df69128b26e
+iphone/iphone recording 70.m4a,iphone,In-house recordings,Private use,train,59f6bb0aabbdd9fb2db479f70516aff8d2867ef78a71c5f1c5253c009c2caa92
+iphone/iphone recording 71.m4a,iphone,In-house recordings,Private use,train,3968eba6fee0cc936c6f17304935c9b417b07af73bcb85e67dd8ffed106e4a56
+iphone/iphone recording 72.m4a,iphone,In-house recordings,Private use,train,0aabceebf28f7f5631341ed8785804383f9f3d9444c5dbaf2292b2aca0ccc888
+iphone/iphone recording 73.m4a,iphone,In-house recordings,Private use,train,13ff42dc53f9976cba032e6c9e0ff91999b661dcf48f32fb2859931936af9189
+iphone/iphone recording 74.m4a,iphone,In-house recordings,Private use,train,d05c46407c248fa9f8aaf5db132befb0824f43941ede7ba54f17700bef80f6de
+iphone/iphone recording 75.m4a,iphone,In-house recordings,Private use,train,8d0472b22f1593de5358e0c25505a8cab74b538b736c733e9f07d96941aae880
+iphone/iphone recording 76.m4a,iphone,In-house recordings,Private use,train,9e7d03379deee1daa21a8f45984115a182f46661b47c159092121c99f43a8593
+iphone/iphone recording 77.m4a,iphone,In-house recordings,Private use,train,e63072252dad2f4245f46d54b96730655bf5ed8a080eab5e06a33d0f40609e7b
+iphone/iphone recording 78.m4a,iphone,In-house recordings,Private use,train,d197e1d76b636c53f6a8fce7c82b852abf676e71dc7d48665fe89ad5cf31aec0
+iphone/iphone recording 79.m4a,iphone,In-house recordings,Private use,train,321bf4e5e71a9895c06c21d1f5bfc5f2cd2594a582d0b984c6555343095033b4
+iphone/iphone recording 80.m4a,iphone,In-house recordings,Private use,train,d3d7e2c8b6928abeb6e3ef6b3ec5c3602726d9f42e431d206f7a7cf859695d28
+iphone/iphone recording 81.m4a,iphone,In-house recordings,Private use,train,7817d3c0aa52285628bc493f2edcc1d6637c96a71235d333217484d682722616
+iphone/iphone recording 82.m4a,iphone,In-house recordings,Private use,train,10ac4c2e6533ff61a6568bc21f6cb66b108d4a5d52b77eadbdac69ea13123823
+iphone/iphone recording 83.m4a,iphone,In-house recordings,Private use,train,27b92c4f620b1d248c41db296da8a29b370d980d59fbb2f22634227722f56d02
+iphone/iphone recording 84.m4a,iphone,In-house recordings,Private use,train,4db59ce607a0fd7a75e273d7859258878191e723c39bdef2721edd249de9b759
+iphone/iphone recording 85.m4a,iphone,In-house recordings,Private use,train,8c5b586ed1139d7acbd99c86b62cf35805f4999fa5dc2d9c145b1067687b9bf3
+iphone/iphone recording 86.m4a,iphone,In-house recordings,Private use,train,db5ed171130ba89a1f9205ac60deed3fe12e1ad4bbbb5538184f1ee013b2ff0c
+laptop/airpods 10.m4a,laptop,In-house recordings,Private use,train,68769c0ee2dcf4af368b7f5aed08ef8206a8f1e23c3441438c1b15545c9317aa
+laptop/airpods 8.m4a,laptop,In-house recordings,Private use,train,0f2211b8b07410a2ef7b3838b69ff8fdc2365ecc8f22ab118949ebe707a802bc
+laptop/airpods 9.m4a,laptop,In-house recordings,Private use,train,ba2e6559e846211ab8c5f7d8f4a86c2102b2ae7815bd33932701654d896ef10e
+laptop/airpods11.m4a,laptop,In-house recordings,Private use,train,ff87397639b5d566ea95f17e5ade7b6102b79762a40ab130591a6b115fcc0934
+laptop/airpods12.m4a,laptop,In-house recordings,Private use,train,ea64d7b526437c3b81a19b59d1eb368845dd9e930484508712f111b28d2d7ab2
+laptop/airpods13.m4a,laptop,In-house recordings,Private use,train,3167942c78bf9f4a4a2034c60884377669341434ae3221c0ed12f6d5a6c4b7a5
+laptop/airpods14.m4a,laptop,In-house recordings,Private use,train,94244fe64400db908fa3af9ac314bb735c935577badb22e3392c0887b33eba4e
+laptop/airpods16.m4a,laptop,In-house recordings,Private use,train,39f47412334a4fec9a9b4e2734c02da19390af4afa64a5213531ffe71be7bb76
+laptop/airpods17.m4a,laptop,In-house recordings,Private use,train,8142ed159004cb720672770474be7e1effbce33a4e16da2f8b8ae613031dc461
+laptop/airpods18.m4a,laptop,In-house recordings,Private use,train,8eba74b3e3724c643642c4191be26d3c94b1a65573f5c1fdb429f35327483adb
+laptop/airpods19.m4a,laptop,In-house recordings,Private use,train,ea06333a9fc1842562aa5eb0c826b5f3343de87b88c5eaa2de93b060a1c40e2f
+laptop/airpods20.m4a,laptop,In-house recordings,Private use,train,5570721cd847678419f0acc4a0bc019da75c36fdb393df473e5e38cdcb6bfcd9
+laptop/airpods21.m4a,laptop,In-house recordings,Private use,train,560da5ead760f8c05ab9eb4abcab761004f7b275b86f6c4c8b9dd2483f44229d
+laptop/airpods22.m4a,laptop,In-house recordings,Private use,train,62e881a7914749a0a54c66cf9c1567cc25cd0972bf48659660732c951d245d77
+laptop/clip_01.wav,laptop,In-house recordings,Private use,train,f163fd7dc320b3c7ede45104fadff2f90d795f740c9a59156b8cb71613c9f773
+laptop/clip_02.wav,laptop,In-house recordings,Private use,train,53c3f390cd9e85dfaa23277e4bc247b36a8a1bbcdc8681dd707357b6f65427b5
+laptop/clip_03.wav,laptop,In-house recordings,Private use,train,25c4cece70f88c036ed4a87d4e20a51f8358a2df59675e2b1d5569d97633365a
+laptop/clip_04.wav,laptop,In-house recordings,Private use,train,5810c4ab133b5a93de2000a0f1cfbdfa31eb301606625716320b849c47a58081
+laptop/clip_05.wav,laptop,In-house recordings,Private use,train,56d5a2ca715e1dc1f08f02d619c1a1c770ea60378b721638f9f2aeffb4829233
+laptop/clip_06.wav,laptop,In-house recordings,Private use,train,3a4db898e9dea683846e8788496a5e9163f007c02a64d7fb07dca98ab2dfbd23
+laptop/clip_07.wav,laptop,In-house recordings,Private use,train,187483380cc78bea02ed3fe3f2df5377837794d83ac4b67621f1e79332dae810
+laptop/clip_08.wav,laptop,In-house recordings,Private use,train,8930fe10c56e4f8212c7782f57c65879656c051fd62c15100cb1fa17f75fc993
+laptop/clip_09.wav,laptop,In-house recordings,Private use,train,e9bfd02fdba26962517ac0b1be2db3c3e229249263db7a785e4f52624e6f1a72
+laptop/clip_10.wav,laptop,In-house recordings,Private use,train,7f3ad220ccfa306cc91d8fd363e447d78fb6022d16b7272b3d75dfc1989dcdf1
+laptop/clip_11.wav,laptop,In-house recordings,Private use,train,717f1229c1874f1dc9fa6eb95cd763a2758dcf913ecda3ba08a1ab4c5a66abd4
+laptop/clip_12.wav,laptop,In-house recordings,Private use,train,834075a730cfe695e8c6623c3beebce853f7463936c50a0bb9e5557fd6274c45
+laptop/clip_13.wav,laptop,In-house recordings,Private use,train,8eb7973391d52b511ad95c0e78bafbd25a39848fc13b7689b2ac813bbbe747a7
+laptop/clip_14.wav,laptop,In-house recordings,Private use,train,7d996c7d79954a21dcc1a15516f5b478d90658c873ca857eeb76f41bfe102344
+laptop/clip_15.wav,laptop,In-house recordings,Private use,train,f0626b3579ab7f786b23992de84bcc52ad916538a385607fb0337c5bacb59e83
+outtakes : new/airport-lisbon-175-5340 .wav,outtakes : new,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,d53724c130d868cda2eae969239574427562dbaf487e7d3b9f28ca3747b2ba70
+outtakes : new/airport-lisbon-175-5340-.wav,outtakes : new,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,9f888e8eabfff13bb0bfa32976589ba2a25059f6285acd26f8a376162e1effe5
+outtakes : new/airport-lisbon-175-5340.wav,outtakes : new,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,5718cd8fbd9e1d6ff7aa1c4a3bb1170375375dc3851283059257896fb6ca7d62
+outtakes : new/airport-london-205-6195-a.wav,outtakes : new,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,bc707fa2b01cefc8550062692eb33ec472e7f89e40ced1a611964f2e20f0fd21
+outtakes : new/airport-london-205-6195-b.wav,outtakes : new,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,63afba230ec81724b68978336bbd3920b3c3e42e6f573d85e318a132b74fe6df
+outtakes : new/airport-london-205-6195-c.wav,outtakes : new,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4b9631a9c7e723df4720017e112aeb36d50fdea4a75348ba52ba227a00fe6365
+outtakes : new/clip_14.wav,outtakes : new,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,92dedc9607d070a76c39f2099578ab6dddc18da752ec4c10758e84fc38b49fa7
+outtakes : new/clip_15.wav,outtakes : new,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,ef6b457f0509a6694beda82fd45d156e87152a2f48afc727ed6d1534a1f561cb
+outtakes : new/metro-paris-50-1524-a.wav,outtakes : new,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,e8a15fd1c204f18ff21d997d5e481ef7a79ea99ba9e12d119dce5999a5b8ad28
+outtakes : new/metro-paris-50-1524-b.wav,outtakes : new,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,1632c5c7a8d6a10d20ade4887bfd1544c96256c344da6e93e9d901dbea7830d5
+outtakes : new/metro-paris-50-1524-c.wav,outtakes : new,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,da89e4129f83d73c648b7b4a9bff36fb594b191b5dc61371991725994af7f2a7
+outtakes : new/street_pedestrian-prague-203-5268-a.wav,outtakes : new,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,b4d3937c72adf80e66fa1e10ba67a3e684bfb726818e6986e126528086d98d10
+outtakes : new/street_pedestrian-prague-203-5268-b.wav,outtakes : new,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,4fd00d46df4278d1ac96214006108e45aafe0822e5cb4810872790c15a2c2fbe
+outtakes : new/street_pedestrian-prague-203-5268-c.wav,outtakes : new,TAU Urban Acoustic Scenes 2019 Mobile,CC-BY 4.0,train,794b8ef5d93bb5407d4621ecfab21395e354cbb266e4c626d6eb635a7a685c1d

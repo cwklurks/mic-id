@@ -7,6 +7,7 @@ import argparse
 import io
 import os
 from pathlib import Path
+from typing import Iterable, List
 
 import joblib
 import librosa
@@ -26,6 +27,7 @@ from devices import describe_label
 
 MODEL_PATH = Path("models/model.pkl")
 ENCODER_PATH = Path("models/label_encoder.pkl")
+AUDIO_EXTENSIONS = {".wav", ".mp3", ".m4a", ".flac", ".ogg"}
 
 
 def load_model():
@@ -52,16 +54,43 @@ def normalise_audio(y: np.ndarray) -> np.ndarray:
     return y * (0.05 / rms), rms
 
 
+def discover_inputs(paths: Iterable[Path]) -> List[Path]:
+    """Expand directories into audio files, preserving explicit file ordering."""
+    collected: list[Path] = []
+    for path in paths:
+        if path.is_dir():
+            matches = sorted(
+                p for p in path.rglob("*")
+                if p.is_file() and p.suffix.lower() in AUDIO_EXTENSIONS
+            )
+            if not matches:
+                print(f"[!] No audio files found under directory: {path}")
+                continue
+            collected.extend(matches)
+        else:
+            collected.append(path)
+    return collected
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Score WAV/MP3/M4A clips with the Mic-ID classifier.")
-    parser.add_argument("paths", nargs="+", type=Path, help="Audio files to score")
+    parser.add_argument(
+        "paths",
+        nargs="+",
+        type=Path,
+        help="Audio files or directories containing audio to score",
+    )
     parser.add_argument("--topk", type=int, default=3, help="How many ranked predictions to show per file")
     args = parser.parse_args()
 
     clf, le = load_model()
     topk = max(1, min(args.topk, len(le.classes_)))
 
-    for path in args.paths:
+    inputs = discover_inputs(args.paths)
+    if not inputs:
+        raise SystemExit("No valid audio inputs found. Provide files or directories with supported formats.")
+
+    for path in inputs:
         if not path.exists():
             print(f"[!] Skipping missing file: {path}")
             continue

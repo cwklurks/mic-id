@@ -62,4 +62,10 @@ Mic-ID works best when every class corresponds to a capture device that has enou
 2. Store downloaded archives under `data/raw/` (ignored by git) and export processed clips to `data/<device>/`.
 3. Update `metadata.csv` whenever you add or remove external clips so the experiment log in `reports/` stays reproducible.
 
+## Provenance workflow
+- Run `python3 scripts/refresh_metadata.py` after adding or trimming clips to recompute SHA256 hashes and populate default source/licence values.
+- Manually edit `data/metadata.csv` when a clip needs corrected credits or licence text; the training step will refuse to run if either field is missing.
+- Validate the metadata without training by running `python3 train.py --dry-run`; this catches missing files, hash mismatches, and low clip counts early.
+- Commit both the metadata file and the resulting `reports/runs/run-*.json` snapshot so collaborators can audit exactly which audio went into each checkpoint.
+
 For more ideas, browse the DCASE and ASVspoof challenge leaderboards—winning teams usually publish their data prep notes and often release additional impulse responses or parallel recordings.
